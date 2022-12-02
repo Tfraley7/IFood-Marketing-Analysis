@@ -1,1455 +1,1455 @@
-Customer ID,Kids,Income,MntWines,Education,Marital Status
-1,2,46344.0,11,UnderGrad,
-2,1,26646.0,11,UnderGrad,Married
-3,1,58293.0,173,PhD,
-4,1,62513.0,520,Masters,Married
-5,1,55635.0,235,UnderGrad,Divorced
-6,1,33454.0,76,PhD,
-7,1,30351.0,14,PhD,Married
-8,2,5648.0,28,PhD,Married
-9,2,59354.0,233,Masters,Divorced
-10,2,41850.0,53,UnderGrad,
-11,1,76995.0,1012,Masters,
-12,1,33812.0,4,Masters,
-13,1,2447.0,1,UnderGrad,
-14,1,58607.0,867,PhD,
-15,1,65324.0,384,PhD,
-16,1,40689.0,270,UnderGrad,Married
-17,2,53359.0,173,UnderGrad,
-18,1,38360.0,36,UnderGrad,
-19,1,40548.0,110,UnderGrad,Married
-20,2,46610.0,96,PhD,Divorced
-21,2,49389.0,40,Masters,
-22,1,67353.0,702,PhD,
-23,1,23718.0,6,Masters,
-24,1,42429.0,55,UnderGrad,Widowed
-25,1,80011.0,421,UnderGrad,
-26,1,20559.0,13,Masters,
-27,1,21994.0,9,UnderGrad,Married
-28,1,7500.0,3,Masters,
-29,1,41728.0,13,UnderGrad,Married
-30,2,72550.0,826,PhD,
-31,1,65486.0,245,UnderGrad,Widowed
-32,1,35790.0,12,UnderGrad,
-33,2,66373.0,328,UnderGrad,
-34,1,27938.0,13,UnderGrad,
-35,1,55954.0,447,PhD,
-36,2,66653.0,452,UnderGrad,Married
-37,1,61823.0,523,UnderGrad,
-38,1,67680.0,546,PhD,Widowed
-39,1,25721.0,1,UnderGrad,
-40,2,32474.0,10,UnderGrad,Married
-41,1,88194.0,688,Masters,
-42,1,69096.0,247,UnderGrad,Married
-43,3,74854.0,856,UnderGrad,Married
-44,1,65031.0,258,UnderGrad,
-45,2,60631.0,565,PhD,
-46,1,40246.0,2,UnderGrad,Divorced
-47,1,29760.0,64,UnderGrad,
-48,1,26304.0,4,UnderGrad,
-49,1,23559.0,25,Masters,
-50,2,29440.0,17,UnderGrad,
-51,2,36138.0,130,Masters,
-52,1,50388.0,292,UnderGrad,
-53,1,54178.0,135,UnderGrad,Married
-54,1,42394.0,15,Masters,
-55,1,23626.0,27,PhD,
-56,1,30096.0,5,UnderGrad,
-57,1,47916.0,505,UnderGrad,Widowed
-58,2,51813.0,51,UnderGrad,Divorced
-59,1,47823.0,53,Masters,
-60,1,34554.0,41,PhD,
-61,1,85693.0,386,UnderGrad,Married
-62,1,24594.0,1,Basic,Married
-63,2,49096.0,144,UnderGrad,
-64,2,52413.0,295,UnderGrad,
-65,1,38557.0,76,UnderGrad,
-66,1,77298.0,425,UnderGrad,Married
-67,1,57288.0,527,Masters,Married
-68,1,43974.0,378,PhD,
-69,2,50785.0,64,UnderGrad,
-70,1,36550.0,47,Masters,
-71,2,30753.0,12,Masters,Married
-72,1,21918.0,1,UnderGrad,Married
-73,1,56129.0,320,Masters,Married
-74,1,32557.0,34,Masters,
-75,2,19510.0,9,Masters,
-76,1,30992.0,17,UnderGrad,Divorced
-77,2,54348.0,70,Masters,
-78,2,77376.0,492,PhD,Married
-79,1,62998.0,120,UnderGrad,
-80,2,61331.0,534,Masters,
-81,2,41551.0,220,PhD,
-82,1,9548.0,0,Basic,Divorced
-83,3,33762.0,53,PhD,
-84,2,35860.0,15,PhD,
-85,2,36921.0,17,PhD,Divorced
-86,1,65104.0,738,Masters,Married
-87,1,68352.0,614,PhD,
-88,1,41883.0,32,UnderGrad,Married
-89,2,59809.0,598,UnderGrad,
-90,1,23957.0,2,UnderGrad,
-91,1,38547.0,6,UnderGrad,Married
-92,3,35688.0,73,Masters,
-93,2,59354.0,295,Masters,
-94,1,65747.0,346,UnderGrad,
-95,1,46344.0,233,Masters,Married
-96,1,34176.0,5,UnderGrad,
-97,1,61010.0,888,PhD,Married
-98,1,49967.0,212,UnderGrad,
-99,3,60199.0,8,UnderGrad,
-100,1,55375.0,42,UnderGrad,Married
-101,3,30523.0,5,Masters,
-102,1,23228.0,53,UnderGrad,
-103,3,43482.0,18,UnderGrad,Married
-104,2,26091.0,15,UnderGrad,Married
-105,2,33456.0,7,UnderGrad,Married
-106,1,28718.0,12,UnderGrad,
-107,2,50447.0,85,UnderGrad,
-108,2,53537.0,81,PhD,Married
-109,1,52074.0,59,UnderGrad,
-110,1,80427.0,1149,PhD,
-111,2,38853.0,29,PhD,
-112,3,38285.0,2,UnderGrad,Married
-113,1,51650.0,152,PhD,
-114,1,16248.0,12,Masters,
-115,1,30477.0,47,Masters,
-116,1,25271.0,10,UnderGrad,
-117,1,32303.0,35,PhD,
-118,1,61286.0,356,UnderGrad,
-119,2,45759.0,42,PhD,
-120,1,24882.0,1,Basic,Married
-121,1,38872.0,23,UnderGrad,
-122,2,51148.0,235,UnderGrad,
-123,2,31353.0,10,UnderGrad,
-124,2,46854.0,96,PhD,
-125,1,69142.0,448,UnderGrad,Divorced
-126,1,63693.0,587,UnderGrad,Divorced
-127,2,40637.0,22,PhD,
-128,1,29604.0,7,UnderGrad,Married
-129,2,48721.0,81,Masters,Divorced
-130,1,44794.0,54,UnderGrad,
-131,1,64497.0,1170,UnderGrad,Divorced
-132,1,46097.0,72,UnderGrad,Married
-133,2,44377.0,224,PhD,
-134,2,46014.0,410,Masters,Married
-135,1,41443.0,171,UnderGrad,
-136,3,52195.0,12,Masters,
-137,1,44551.0,182,Masters,Widowed
-138,1,69508.0,824,UnderGrad,Married
-139,1,45204.0,30,Masters,Married
-140,2,77622.0,520,PhD,Married
-141,1,30732.0,155,PhD,
-142,1,63887.0,897,UnderGrad,Divorced
-143,1,42011.0,131,UnderGrad,Married
-144,1,51369.0,297,UnderGrad,Married
-145,1,51537.0,787,UnderGrad,Divorced
-146,1,34320.0,4,PhD,Married
-147,2,37070.0,231,UnderGrad,
-148,1,81975.0,983,Masters,Divorced
-149,1,38590.0,3,UnderGrad,Married
-150,1,62745.0,562,PhD,
-151,1,22212.0,5,Masters,
-152,1,23661.0,18,Masters,Married
-153,1,79761.0,415,PhD,
-154,1,7500.0,5,UnderGrad,
-155,1,64961.0,382,UnderGrad,Married
-156,1,22804.0,14,UnderGrad,
-157,1,61074.0,789,UnderGrad,
-158,2,31686.0,11,PhD,
-159,1,80134.0,1218,UnderGrad,
-160,1,75027.0,925,UnderGrad,
-161,1,65176.0,960,Masters,Married
-162,1,31160.0,16,Masters,
-163,1,29938.0,3,UnderGrad,
-164,2,75702.0,650,UnderGrad,Married
-165,1,30899.0,24,PhD,
-166,1,63342.0,918,PhD,Married
-167,1,45989.0,138,UnderGrad,
-168,2,18701.0,12,UnderGrad,
-169,3,40737.0,11,PhD,
-170,1,15287.0,1,UnderGrad,Divorced
-171,2,69674.0,554,PhD,Divorced
-172,1,44159.0,167,Masters,
-173,1,37717.0,9,PhD,
-174,2,43776.0,177,Masters,Married
-175,2,38179.0,38,Masters,
-176,2,38097.0,77,PhD,
-177,1,22070.0,10,UnderGrad,Married
-178,1,31788.0,16,Masters,
-179,1,61905.0,167,PhD,Married
-180,2,29315.0,13,UnderGrad,
-181,2,33378.0,33,UnderGrad,Divorced
-182,1,66313.0,625,PhD,Married
-183,1,63841.0,635,Masters,Divorced
-184,1,24480.0,4,Basic,
-185,1,65640.0,204,PhD,Married
-186,2,44319.0,26,Masters,
-187,1,30631.0,15,UnderGrad,
-188,2,50898.0,285,Masters,Married
-189,1,38361.0,39,UnderGrad,Married
-190,2,16626.0,8,UnderGrad,Married
-191,2,29672.0,9,UnderGrad,Married
-192,1,55951.0,1241,Masters,Married
-193,1,35388.0,6,Masters,Divorced
-194,1,42386.0,65,Masters,Married
-195,1,57912.0,801,PhD,Divorced
-196,2,35246.0,36,UnderGrad,Divorced
-197,1,58821.0,513,Masters,Married
-198,1,46377.0,37,PhD,
-199,1,39747.0,80,UnderGrad,
-200,1,23976.0,14,UnderGrad,Married
-201,1,64100.0,509,Masters,
-202,1,12571.0,3,UnderGrad,Divorced
-203,3,22574.0,25,UnderGrad,
-204,2,54198.0,185,UnderGrad,
-205,2,28839.0,24,Masters,Married
-206,2,40321.0,44,UnderGrad,
-207,1,66503.0,91,UnderGrad,
-208,2,30833.0,11,UnderGrad,
-209,1,64795.0,412,UnderGrad,
-210,1,34421.0,3,UnderGrad,
-211,2,47025.0,16,PhD,Divorced
-212,1,64325.0,731,PhD,Divorced
-213,1,40464.0,424,UnderGrad,
-214,1,14849.0,21,PhD,Divorced
-215,1,27255.0,22,UnderGrad,
-216,3,54432.0,33,PhD,
-217,1,29999.0,68,PhD,
-218,1,24072.0,9,UnderGrad,
-219,1,66334.0,909,PhD,
-220,1,35178.0,23,Masters,
-221,1,22010.0,11,UnderGrad,Married
-222,2,62204.0,317,UnderGrad,Divorced
-223,1,30675.0,10,UnderGrad,
-224,1,55212.0,1103,PhD,
-225,1,59292.0,378,PhD,Married
-226,1,27190.0,1,Basic,Married
-227,2,44300.0,30,UnderGrad,
-228,2,30372.0,15,UnderGrad,Widowed
-229,1,33181.0,9,Masters,
-230,1,71113.0,495,UnderGrad,
-231,1,71952.0,656,UnderGrad,
-232,1,60000.0,1048,PhD,
-233,2,38643.0,22,UnderGrad,
-234,1,50737.0,78,UnderGrad,
-235,2,46681.0,269,PhD,Married
-236,1,62187.0,512,PhD,Widowed
-237,2,28442.0,19,UnderGrad,
-238,2,51479.0,247,UnderGrad,
-239,1,54803.0,404,UnderGrad,
-240,1,31615.0,2,UnderGrad,Divorced
-241,1,52614.0,789,PhD,
-242,1,35684.0,10,Masters,
-243,2,48178.0,159,UnderGrad,
-244,1,29548.0,7,Masters,
-245,1,63810.0,977,UnderGrad,
-246,2,38578.0,38,PhD,
-247,2,46098.0,57,Masters,
-248,1,30279.0,10,UnderGrad,
-249,1,66426.0,1043,PhD,Married
-250,1,30822.0,3,UnderGrad,
-251,2,33581.0,11,PhD,
-252,1,19986.0,3,UnderGrad,
-253,1,36143.0,12,Masters,
-254,1,10245.0,4,UnderGrad,
-255,1,43795.0,314,Masters,Married
-256,1,63381.0,571,UnderGrad,Married
-257,1,38823.0,70,UnderGrad,Married
-258,2,83664.0,866,PhD,Divorced
-259,1,62499.0,140,Masters,Married
-260,1,70777.0,554,Masters,
-261,2,43824.0,96,UnderGrad,
-262,1,15345.0,5,UnderGrad,Married
-263,1,23442.0,2,UnderGrad,
-264,1,14515.0,6,Masters,Married
-265,2,31395.0,23,Masters,Divorced
-266,2,42373.0,67,UnderGrad,
-267,3,55521.0,416,PhD,
-268,2,48006.0,23,UnderGrad,
-269,1,27213.0,19,PhD,
-270,2,65808.0,155,PhD,Divorced
-271,1,30351.0,14,PhD,Married
-272,2,50437.0,370,UnderGrad,
-273,1,23616.0,4,Masters,
-274,1,53858.0,407,UnderGrad,
-275,1,66465.0,1200,PhD,
-276,1,46923.0,85,UnderGrad,
-277,1,75072.0,583,UnderGrad,Married
-278,1,19789.0,2,Masters,Married
-279,2,49505.0,604,Masters,
-280,1,37401.0,19,PhD,
-281,1,18492.0,2,Masters,Married
-282,3,48686.0,10,UnderGrad,
-283,1,75433.0,800,UnderGrad,
-284,1,10404.0,2,Masters,Married
-285,1,61314.0,378,UnderGrad,
-286,1,42387.0,235,UnderGrad,
-287,2,67309.0,515,Masters,Married
-288,1,75236.0,438,UnderGrad,
-289,1,30015.0,25,UnderGrad,
-290,1,50943.0,31,Masters,Married
-291,1,67272.0,357,UnderGrad,Divorced
-292,1,51529.0,400,Masters,Widowed
-293,1,32011.0,99,PhD,
-294,1,7500.0,1,Masters,
-295,1,28691.0,5,UnderGrad,
-296,1,56223.0,77,PhD,
-297,1,42618.0,76,Masters,Divorced
-298,1,24027.0,14,UnderGrad,
-299,1,55707.0,208,PhD,
-300,1,57959.0,430,UnderGrad,
-301,1,56796.0,656,UnderGrad,
-302,1,36230.0,14,Masters,
-303,2,70829.0,141,Masters,
-304,1,65991.0,507,UnderGrad,
-305,3,38988.0,164,UnderGrad,
-306,1,42207.0,116,Masters,
-307,1,50300.0,143,UnderGrad,
-308,1,60597.0,522,UnderGrad,
-309,1,50520.0,112,PhD,Widowed
-310,1,33183.0,7,UnderGrad,
-311,1,31880.0,4,UnderGrad,Widowed
-312,2,53790.0,335,UnderGrad,
-313,1,49269.0,639,PhD,Married
-314,1,61456.0,563,UnderGrad,
-315,1,37406.0,2,UnderGrad,
-316,1,56937.0,746,PhD,Married
-317,2,38415.0,22,UnderGrad,
-318,1,20518.0,4,UnderGrad,
-319,1,62503.0,478,UnderGrad,
-320,2,41644.0,20,PhD,
-321,1,55842.0,451,Masters,
-322,1,62010.0,371,PhD,
-323,1,41124.0,281,UnderGrad,
-324,1,38961.0,19,Masters,
-325,1,37760.0,26,Masters,Divorced
-326,1,32233.0,138,UnderGrad,
-327,1,43057.0,213,UnderGrad,
-328,1,65104.0,738,Masters,Married
-329,1,60093.0,502,UnderGrad,
-330,1,14045.0,11,UnderGrad,
-331,1,78952.0,1170,PhD,Married
-332,1,46310.0,185,UnderGrad,Divorced
-333,1,58308.0,691,Masters,
-334,1,59432.0,317,Masters,Divorced
-335,1,55563.0,29,UnderGrad,Divorced
-336,1,78642.0,1396,PhD,Married
-337,1,67911.0,529,PhD,Married
-338,2,27203.0,13,UnderGrad,Married
-339,1,48330.0,28,Masters,Married
-340,1,64355.0,1047,PhD,
-341,1,65665.0,225,UnderGrad,
-342,1,61250.0,382,UnderGrad,Divorced
-343,1,39665.0,127,PhD,Married
-344,1,60152.0,325,UnderGrad,
-345,2,48920.0,238,UnderGrad,
-346,1,44124.0,284,PhD,Married
-347,2,36443.0,65,UnderGrad,
-348,1,26095.0,11,UnderGrad,
-349,2,30630.0,27,UnderGrad,Divorced
-350,1,25545.0,32,UnderGrad,
-351,1,32880.0,8,UnderGrad,
-352,2,49154.0,206,PhD,
-353,1,47682.0,162,Masters,Widowed
-354,1,72679.0,619,UnderGrad,
-355,2,57954.0,456,Masters,Married
-356,2,65316.0,112,UnderGrad,
-357,1,28567.0,11,UnderGrad,
-358,1,47352.0,172,Masters,Married
-359,1,44931.0,78,UnderGrad,Married
-360,1,57247.0,99,Masters,Married
-361,1,22944.0,19,Masters,
-362,1,25315.0,1,Masters,Married
-363,1,43638.0,63,UnderGrad,Widowed
-364,1,42710.0,252,PhD,
-365,1,54058.0,198,UnderGrad,Married
-366,1,24683.0,8,Masters,
-367,1,47850.0,42,UnderGrad,
-368,2,19514.0,14,UnderGrad,
-369,2,27159.0,17,Masters,
-370,2,39548.0,15,Masters,
-371,1,21474.0,6,UnderGrad,
-372,1,60504.0,458,PhD,
-373,2,43462.0,90,UnderGrad,Married
-374,1,54880.0,308,PhD,
-375,1,87771.0,1492,UnderGrad,Married
-376,1,33039.0,30,UnderGrad,
-377,1,71499.0,465,Masters,Married
-378,1,62466.0,129,Masters,
-379,1,48799.0,174,PhD,Divorced
-380,1,52157.0,189,PhD,Married
-381,1,66565.0,747,UnderGrad,
-382,2,29298.0,6,Masters,Married
-383,1,47691.0,14,UnderGrad,
-384,2,38200.0,12,UnderGrad,Married
-385,1,44989.0,98,UnderGrad,
-386,2,38443.0,32,PhD,
-387,1,38593.0,51,Masters,
-388,1,64413.0,200,PhD,Married
-389,1,36959.0,25,Masters,
-390,1,61996.0,1050,PhD,
-391,2,51287.0,117,UnderGrad,
-392,2,13260.0,9,UnderGrad,
-393,2,47472.0,56,PhD,Married
-394,2,54603.0,145,Masters,Married
-395,2,45207.0,203,PhD,
-396,2,47821.0,9,Masters,Married
-397,1,39453.0,46,UnderGrad,Married
-398,2,26850.0,31,Masters,Married
-399,1,61794.0,264,Masters,
-400,1,53863.0,399,UnderGrad,Married
-401,1,39684.0,19,PhD,
-402,1,33178.0,12,UnderGrad,Married
-403,1,17459.0,6,Masters,Married
-404,1,23910.0,16,UnderGrad,Divorced
-405,2,42169.0,19,Masters,
-406,1,26224.0,4,Masters,
-407,1,31089.0,31,UnderGrad,Married
-408,1,30081.0,36,UnderGrad,
-409,1,62807.0,526,UnderGrad,Married
-410,2,61467.0,410,PhD,
-411,2,49618.0,80,Masters,Married
-412,1,21888.0,88,Masters,
-413,3,26150.0,5,UnderGrad,Divorced
-414,1,30801.0,8,Basic,
-415,1,18978.0,2,Basic,
-416,2,45837.0,215,UnderGrad,
-417,3,35791.0,27,Masters,
-418,2,54162.0,5,UnderGrad,Widowed
-419,1,30522.0,179,Masters,
-420,1,54456.0,352,PhD,
-421,1,36975.0,10,Masters,
-422,1,13624.0,10,UnderGrad,
-423,1,84196.0,215,UnderGrad,
-424,1,70971.0,1001,UnderGrad,Married
-425,2,34487.0,19,PhD,Divorced
-426,1,28769.0,41,UnderGrad,
-427,1,69084.0,1181,PhD,
-428,3,46102.0,14,UnderGrad,Divorced
-429,1,56181.0,121,UnderGrad,
-430,1,63120.0,965,Masters,Divorced
-431,1,73691.0,707,UnderGrad,
-432,1,62859.0,1063,PhD,Divorced
-433,1,45906.0,305,UnderGrad,
-434,2,46463.0,163,PhD,
-435,1,55282.0,125,Masters,Divorced
-436,1,78710.0,721,Masters,
-437,1,66886.0,315,UnderGrad,Married
-438,1,29103.0,16,UnderGrad,Married
-439,1,67445.0,757,UnderGrad,
-440,1,50616.0,30,PhD,Married
-441,1,49431.0,219,UnderGrad,Divorced
-442,1,61278.0,111,UnderGrad,Married
-443,1,73059.0,410,PhD,Married
-444,3,46734.0,100,PhD,
-445,1,56253.0,509,UnderGrad,Married
-446,1,58330.0,445,UnderGrad,Widowed
-447,1,45068.0,14,PhD,Married
-448,1,21063.0,1,Basic,
-449,1,29187.0,26,PhD,
-450,2,54690.0,111,Masters,
-451,1,59304.0,418,PhD,
-452,2,59247.0,327,Masters,
-453,1,66731.0,371,UnderGrad,Widowed
-454,1,77353.0,275,UnderGrad,
-455,2,26751.0,1,UnderGrad,
-456,1,81300.0,1004,PhD,
-457,1,36145.0,56,Masters,
-458,1,68118.0,595,UnderGrad,Divorced
-459,1,38946.0,116,UnderGrad,Married
-460,1,66476.0,372,PhD,Divorced
-461,1,50611.0,459,PhD,Divorced
-462,1,42315.0,67,Masters,Married
-463,2,47570.0,67,Masters,Widowed
-464,2,61923.0,92,Masters,
-465,2,26518.0,20,PhD,
-466,1,78901.0,321,UnderGrad,Divorced
-467,2,71427.0,212,UnderGrad,
-468,1,71022.0,909,UnderGrad,Divorced
-469,1,41335.0,112,Masters,Divorced
-470,1,35682.0,23,PhD,Divorced
-471,1,43185.0,537,UnderGrad,Divorced
-472,1,66375.0,712,PhD,Married
-473,1,25252.0,1,UnderGrad,
-474,1,55250.0,664,Masters,
-475,1,33249.0,6,UnderGrad,
-476,1,50272.0,99,UnderGrad,Married
-477,1,25851.0,9,UnderGrad,Married
-478,1,58710.0,440,UnderGrad,Divorced
-479,2,45160.0,8,UnderGrad,
-480,1,74806.0,670,Masters,
-481,1,18988.0,6,PhD,
-482,1,7500.0,7,UnderGrad,
-483,3,56962.0,292,Masters,
-484,2,35946.0,8,PhD,Divorced
-485,2,53593.0,349,PhD,Married
-486,3,45072.0,144,PhD,Divorced
-487,2,89694.0,1126,UnderGrad,Divorced
-488,1,67432.0,432,UnderGrad,
-489,1,70545.0,138,Masters,Married
-490,1,17487.0,0,Basic,
-491,1,62882.0,509,UnderGrad,Married
-492,1,64108.0,948,PhD,
-493,2,34941.0,39,Masters,Married
-494,3,48767.0,28,PhD,
-495,1,38702.0,13,Masters,Married
-496,1,17003.0,2,Masters,
-497,1,33697.0,4,UnderGrad,
-498,1,51518.0,350,PhD,Married
-499,1,62220.0,799,PhD,Married
-500,1,58512.0,895,UnderGrad,
-501,1,40662.0,40,Masters,
-502,1,38829.0,76,PhD,
-503,1,35523.0,11,Masters,
-504,2,79146.0,245,UnderGrad,
-505,1,31626.0,39,PhD,
-506,1,48726.0,138,UnderGrad,
-507,1,46891.0,43,Masters,
-508,1,62058.0,301,Masters,
-509,1,72063.0,180,UnderGrad,
-510,2,42720.0,392,UnderGrad,
-511,2,33622.0,39,UnderGrad,
-512,1,6835.0,107,PhD,Married
-513,2,41452.0,13,UnderGrad,Married
-514,1,40760.0,70,PhD,
-515,2,51124.0,26,Masters,
-516,1,72258.0,522,UnderGrad,
-517,2,36283.0,6,UnderGrad,Married
-518,1,20587.0,2,UnderGrad,
-519,1,30467.0,1,UnderGrad,
-520,1,31590.0,6,UnderGrad,Married
-521,1,20425.0,4,Basic,
-522,2,17144.0,18,Masters,Married
-523,1,42564.0,324,PhD,Divorced
-524,1,43783.0,327,Masters,
-525,1,40780.0,229,UnderGrad,Divorced
-526,2,51267.0,183,UnderGrad,
-527,1,46524.0,31,UnderGrad,
-528,1,70421.0,479,PhD,
-529,1,60161.0,584,Masters,Divorced
-530,1,19329.0,24,UnderGrad,
-531,1,61872.0,330,Masters,
-532,2,46984.0,19,UnderGrad,Widowed
-533,2,34838.0,28,UnderGrad,
-534,2,49681.0,411,Masters,
-535,1,56850.0,34,Masters,
-536,1,55267.0,161,UnderGrad,
-537,2,59666.0,623,UnderGrad,
-538,1,72504.0,604,UnderGrad,
-539,1,21359.0,12,UnderGrad,
-540,1,52750.0,393,Masters,
-541,1,65968.0,376,PhD,Married
-542,2,30772.0,7,UnderGrad,
-543,1,65685.0,642,UnderGrad,
-544,1,25804.0,8,Masters,
-545,1,22063.0,7,UnderGrad,
-546,1,78353.0,752,Masters,Divorced
-547,3,93404.0,1279,UnderGrad,
-548,3,37859.0,22,UnderGrad,Divorced
-549,1,80995.0,860,PhD,Widowed
-550,1,16529.0,3,UnderGrad,Married
-551,2,55412.0,10,PhD,Divorced
-552,2,56575.0,421,PhD,Married
-553,1,25130.0,2,Masters,Married
-554,2,35441.0,25,UnderGrad,
-555,1,71391.0,336,UnderGrad,
-556,1,49494.0,191,Masters,
-557,1,45889.0,31,Masters,
-558,1,56628.0,479,UnderGrad,
-559,2,34026.0,18,UnderGrad,Married
-560,1,40049.0,91,UnderGrad,
-561,1,19419.0,2,UnderGrad,
-562,1,55284.0,547,Masters,
-563,1,49980.0,104,UnderGrad,
-564,2,15072.0,8,UnderGrad,
-565,1,49166.0,224,UnderGrad,
-566,2,30843.0,24,PhD,Married
-567,1,46374.0,408,PhD,
-568,1,60474.0,265,UnderGrad,
-569,1,38576.0,34,Masters,
-570,2,55357.0,374,UnderGrad,
-571,2,37758.0,27,UnderGrad,Married
-572,1,23228.0,13,UnderGrad,Married
-573,2,44602.0,167,Masters,Married
-574,1,38683.0,46,Masters,Married
-575,1,49514.0,88,Masters,
-576,1,57906.0,243,PhD,Married
-577,1,43456.0,275,Masters,
-578,2,19485.0,6,Masters,
-579,1,53172.0,121,UnderGrad,Married
-580,1,30545.0,4,UnderGrad,Married
-581,1,62450.0,515,UnderGrad,
-582,1,21675.0,4,UnderGrad,Married
-583,2,42395.0,48,Masters,
-584,1,61346.0,562,Masters,Married
-585,2,42835.0,379,Masters,Divorced
-586,1,39922.0,29,UnderGrad,
-587,1,17117.0,12,Masters,Married
-588,1,24762.0,6,UnderGrad,
-589,1,35797.0,27,UnderGrad,
-590,2,36627.0,9,UnderGrad,Divorced
-591,2,51111.0,22,Masters,
-592,3,46231.0,189,PhD,
-593,2,42243.0,48,UnderGrad,
-594,2,51195.0,230,UnderGrad,Married
-595,1,31814.0,35,UnderGrad,
-596,2,51390.0,205,Masters,Widowed
-597,1,26868.0,0,Basic,
-598,1,55260.0,825,PhD,
-599,1,64090.0,316,UnderGrad,Married
-600,1,78331.0,756,UnderGrad,Divorced
-601,1,37087.0,194,PhD,
-602,1,21846.0,7,UnderGrad,Divorced
-603,1,54137.0,171,UnderGrad,Divorced
-604,3,58917.0,151,UnderGrad,Married
-605,1,45684.0,5,UnderGrad,Widowed
-606,1,47889.0,29,UnderGrad,Married
-607,1,52278.0,953,PhD,Widowed
-608,1,35641.0,63,Masters,
-609,1,42607.0,156,Masters,
-610,2,46015.0,38,PhD,Married
-611,1,39858.0,15,Masters,
-612,2,34469.0,19,PhD,
-613,1,83033.0,812,UnderGrad,Married
-614,1,68397.0,760,PhD,
-615,1,46107.0,31,UnderGrad,
-616,1,64950.0,819,PhD,
-617,1,25443.0,1,Basic,
-618,1,32892.0,26,PhD,Married
-619,1,67536.0,1253,PhD,
-620,1,55239.0,371,UnderGrad,
-621,1,60554.0,588,PhD,Divorced
-622,2,64831.0,480,Masters,
-623,1,56067.0,517,PhD,Married
-624,1,57937.0,261,Masters,
-625,2,68274.0,135,UnderGrad,Divorced
-626,1,39771.0,6,UnderGrad,Married
-627,1,67893.0,711,Masters,Divorced
-628,1,27922.0,11,PhD,Married
-629,2,52190.0,42,PhD,Married
-630,2,44051.0,79,Masters,Divorced
-631,2,42767.0,20,PhD,
-632,2,46106.0,30,Masters,Married
-633,2,16927.0,20,PhD,
-634,1,59754.0,115,UnderGrad,
-635,1,53700.0,263,UnderGrad,
-636,2,59041.0,69,UnderGrad,
-637,1,54237.0,267,PhD,Divorced
-638,1,70647.0,561,UnderGrad,Divorced
-639,1,52597.0,492,PhD,
-640,1,41021.0,14,Masters,Married
-641,1,40233.0,80,PhD,
-642,2,50183.0,97,UnderGrad,
-643,1,54753.0,197,UnderGrad,Married
-644,1,33471.0,43,UnderGrad,
-645,1,34596.0,14,PhD,
-646,1,44010.0,186,UnderGrad,Married
-647,3,40706.0,59,PhD,Married
-648,1,15716.0,16,Masters,
-649,1,59052.0,230,Masters,Divorced
-650,2,35704.0,30,UnderGrad,
-651,1,53103.0,729,UnderGrad,Married
-652,2,46779.0,12,Masters,Widowed
-653,1,33462.0,22,Masters,Divorced
-654,1,65352.0,284,PhD,
-655,2,35340.0,27,PhD,Widowed
-656,1,24884.0,3,Masters,
-657,1,42021.0,393,Masters,Married
-658,1,64449.0,218,UnderGrad,
-659,2,64587.0,66,UnderGrad,Divorced
-660,1,52845.0,384,UnderGrad,
-661,1,46086.0,244,UnderGrad,Divorced
-662,1,78028.0,158,PhD,Widowed
-663,2,56337.0,349,Masters,
-664,1,22434.0,4,UnderGrad,Married
-665,1,36930.0,223,PhD,
-666,1,36130.0,157,UnderGrad,
-667,1,65569.0,397,Masters,
-668,2,19514.0,14,UnderGrad,
-669,2,36736.0,10,PhD,
-670,1,77568.0,1230,UnderGrad,Married
-671,1,49187.0,81,PhD,Married
-672,1,30168.0,154,UnderGrad,
-673,1,34053.0,63,Masters,Married
-674,2,38196.0,30,Masters,
-675,1,32300.0,13,UnderGrad,
-676,1,34961.0,45,UnderGrad,
-677,1,28440.0,38,PhD,Married
-678,3,64504.0,986,PhD,Married
-679,1,33564.0,61,Masters,Married
-680,1,17345.0,4,UnderGrad,
-681,1,56320.0,201,PhD,
-682,1,28647.0,19,UnderGrad,
-683,1,15038.0,4,Basic,
-684,1,32173.0,18,PhD,Divorced
-685,1,68316.0,806,Masters,Married
-686,1,31056.0,5,Masters,
-687,2,37334.0,26,PhD,Married
-688,2,46423.0,68,Masters,
-689,1,37126.0,45,PhD,
-690,1,47703.0,359,UnderGrad,
-691,1,61180.0,403,UnderGrad,
-692,2,38998.0,34,UnderGrad,
-693,1,34728.0,14,UnderGrad,Married
-694,1,33168.0,80,Masters,
-695,1,33585.0,30,Masters,
-696,1,77037.0,463,PhD,
-697,1,35196.0,75,UnderGrad,Married
-698,1,44529.0,538,UnderGrad,
-699,2,28764.0,8,PhD,Married
-700,2,25959.0,4,Masters,Divorced
-701,1,27100.0,12,Masters,
-702,1,42557.0,192,UnderGrad,
-703,2,62845.0,1099,Masters,
-704,2,65196.0,743,UnderGrad,Married
-705,2,35860.0,15,PhD,Divorced
-706,1,65526.0,397,PhD,
-707,2,16860.0,10,UnderGrad,
-708,1,64176.0,1215,Masters,Divorced
-709,1,70713.0,736,UnderGrad,Married
-710,1,59925.0,473,UnderGrad,Married
-711,1,39722.0,32,UnderGrad,
-712,2,26907.0,9,Masters,Married
-713,1,50014.0,234,Masters,
-714,1,41014.0,7,PhD,
-715,1,36715.0,172,UnderGrad,
-716,1,40479.0,5,UnderGrad,Married
-717,1,54233.0,652,UnderGrad,
-718,2,24163.0,4,UnderGrad,
-719,1,43776.0,8,UnderGrad,Married
-720,1,39190.0,68,PhD,
-721,2,38578.0,38,PhD,
-722,2,57236.0,105,PhD,
-723,1,61825.0,162,UnderGrad,
-724,1,79803.0,574,UnderGrad,Divorced
-725,1,27590.0,6,Masters,Married
-726,1,56775.0,614,UnderGrad,
-727,1,54210.0,70,Masters,
-728,1,38508.0,120,UnderGrad,
-729,1,53187.0,211,UnderGrad,Married
-730,1,30023.0,11,UnderGrad,
-731,1,50870.0,53,PhD,
-732,1,65463.0,391,Masters,
-733,2,66480.0,199,UnderGrad,
-734,2,54466.0,12,PhD,
-735,1,16269.0,19,PhD,
-736,1,71819.0,1224,UnderGrad,Married
-737,1,33569.0,16,PhD,
-738,1,47025.0,508,Masters,
-739,1,70566.0,381,UnderGrad,
-740,1,31605.0,74,PhD,
-741,2,52034.0,146,Masters,Divorced
-742,1,48526.0,23,UnderGrad,
-743,1,46734.0,110,UnderGrad,
-744,2,39552.0,165,UnderGrad,Divorced
-745,2,86358.0,957,UnderGrad,
-746,3,46931.0,41,UnderGrad,Married
-747,1,67381.0,815,Masters,
-748,2,25930.0,6,UnderGrad,
-749,1,42693.0,8,UnderGrad,
-750,1,85606.0,717,UnderGrad,Married
-751,1,49669.0,166,Masters,Married
-752,2,36778.0,29,PhD,
-753,1,49678.0,229,UnderGrad,
-754,1,37155.0,23,UnderGrad,
-755,1,21282.0,1,Masters,Divorced
-756,1,33419.0,56,PhD,
-757,1,21255.0,29,Masters,Married
-758,1,42162.0,46,UnderGrad,Married
-759,2,54450.0,454,UnderGrad,Married
-760,1,57744.0,350,PhD,
-761,1,26576.0,10,UnderGrad,
-762,1,68142.0,897,UnderGrad,Married
-763,1,7500.0,5,UnderGrad,
-764,1,54197.0,162,Masters,
-765,2,23091.0,35,PhD,
-766,2,46049.0,342,UnderGrad,
-767,1,57304.0,356,UnderGrad,
-768,1,44375.0,213,UnderGrad,
-769,1,59594.0,457,UnderGrad,
-770,1,40344.0,210,PhD,
-771,1,62710.0,441,UnderGrad,
-772,1,48985.0,19,Masters,
-773,3,35322.0,28,UnderGrad,Married
-774,2,66726.0,349,Masters,
-775,1,23724.0,5,Basic,Married
-776,1,47353.0,184,Masters,
-777,2,33444.0,8,Masters,
-778,1,54386.0,277,UnderGrad,
-779,2,28510.0,44,UnderGrad,Divorced
-780,1,48070.0,373,UnderGrad,Married
-781,1,43140.0,134,UnderGrad,
-782,1,54959.0,1148,PhD,Divorced
-783,2,15056.0,6,Basic,
-784,1,26954.0,4,UnderGrad,
-785,1,22327.0,5,UnderGrad,
-786,2,44393.0,24,UnderGrad,
-787,1,62000.0,899,PhD,
-788,1,31497.0,108,PhD,Married
-789,2,45894.0,27,Masters,
-790,1,67369.0,1298,Masters,Widowed
-791,1,58401.0,10,UnderGrad,Divorced
-792,1,62307.0,87,UnderGrad,
-793,2,43641.0,57,Masters,
-794,1,70091.0,964,Masters,
-795,1,59184.0,341,Masters,Widowed
-796,2,54809.0,63,UnderGrad,
-797,1,58113.0,221,UnderGrad,
-798,1,51412.0,140,Masters,
-799,1,50965.0,544,Masters,
-800,2,40451.0,35,PhD,Married
-801,1,36317.0,87,UnderGrad,Married
-802,1,42213.0,309,UnderGrad,Married
-803,1,65748.0,172,UnderGrad,Married
-804,1,77044.0,625,UnderGrad,Married
-805,2,56721.0,157,UnderGrad,
-806,2,42160.0,48,UnderGrad,
-807,1,61559.0,279,UnderGrad,
-808,2,33629.0,132,PhD,Married
-809,1,34377.0,62,UnderGrad,
-810,1,8940.0,1,Basic,
-811,1,26228.0,2,UnderGrad,
-812,2,40211.0,51,UnderGrad,
-813,2,33438.0,62,PhD,Widowed
-814,1,75032.0,952,PhD,
-815,1,22518.0,11,UnderGrad,
-816,1,54730.0,318,Masters,
-817,2,38452.0,56,Masters,
-818,2,44421.0,110,UnderGrad,Divorced
-819,1,38197.0,23,PhD,Married
-820,1,41986.0,27,UnderGrad,Divorced
-821,1,28427.0,18,UnderGrad,Married
-822,1,37395.0,18,PhD,Married
-823,1,64722.0,303,UnderGrad,
-824,1,55249.0,97,Masters,Married
-825,2,44213.0,95,UnderGrad,
-826,1,25707.0,1,Basic,
-827,3,59062.0,46,PhD,
-828,1,76624.0,411,UnderGrad,
-829,1,27683.0,152,PhD,Married
-830,1,7500.0,10,Basic,
-831,2,40521.0,12,UnderGrad,Married
-832,1,20427.0,5,PhD,Married
-833,1,65106.0,790,UnderGrad,
-834,2,67433.0,615,UnderGrad,
-835,1,77766.0,1004,PhD,
-836,1,74716.0,133,UnderGrad,
-837,2,55158.0,293,PhD,
-838,1,62972.0,313,Masters,
-839,1,74190.0,151,UnderGrad,
-840,2,39356.0,15,UnderGrad,
-841,2,31454.0,28,UnderGrad,
-842,2,47139.0,46,UnderGrad,
-843,2,53378.0,489,PhD,
-844,1,19656.0,25,UnderGrad,Married
-845,1,45579.0,145,PhD,
-846,1,64191.0,420,Masters,
-847,1,38808.0,125,UnderGrad,
-848,2,57183.0,464,Masters,
-849,1,23748.0,6,Masters,Divorced
-850,1,66303.0,1090,UnderGrad,
-851,1,37368.0,3,Masters,
-852,3,40800.0,24,UnderGrad,
-853,1,46149.0,254,UnderGrad,
-854,2,37633.0,13,PhD,
-855,1,33986.0,16,UnderGrad,Divorced
-856,1,57091.0,462,PhD,
-857,2,46831.0,22,Masters,
-858,1,43050.0,30,Masters,
-859,2,42997.0,4,PhD,
-860,2,48918.0,52,PhD,
-861,1,60033.0,62,Masters,Married
-862,1,34043.0,20,PhD,Married
-863,1,57811.0,545,UnderGrad,Married
-864,2,7500.0,6,UnderGrad,
-865,2,44267.0,183,UnderGrad,Divorced
-866,1,60894.0,606,UnderGrad,Married
-867,2,50200.0,266,UnderGrad,Married
-868,1,59868.0,771,UnderGrad,Married
-869,1,65695.0,371,PhD,
-870,1,45143.0,202,Masters,Married
-871,1,74805.0,209,Masters,Married
-872,1,59060.0,35,Masters,
-873,2,27238.0,37,PhD,
-874,1,47009.0,171,UnderGrad,Married
-875,2,46094.0,12,Masters,
-876,1,37235.0,20,UnderGrad,Married
-877,1,46692.0,170,Masters,Married
-878,1,77382.0,491,UnderGrad,Married
-879,2,37774.0,173,UnderGrad,
-880,1,18393.0,7,Basic,
-881,1,72828.0,1205,Masters,
-882,1,45503.0,97,PhD,
-883,1,27244.0,6,UnderGrad,
-884,2,48752.0,73,UnderGrad,
-885,1,71434.0,711,UnderGrad,
-886,1,88097.0,163,Masters,
-887,1,51948.0,82,UnderGrad,
-888,1,40049.0,13,UnderGrad,Widowed
-889,1,39660.0,139,UnderGrad,
-890,1,50127.0,274,UnderGrad,Married
-891,1,43263.0,262,Masters,
-892,2,62845.0,1099,Masters,
-893,1,24367.0,2,Basic,
-894,1,26887.0,6,Masters,
-895,1,62061.0,641,UnderGrad,Married
-896,1,18227.0,1,UnderGrad,Married
-897,1,69139.0,86,UnderGrad,
-898,1,69627.0,231,UnderGrad,
-899,1,38136.0,8,UnderGrad,
-900,2,33316.0,79,Masters,
-901,2,58554.0,368,UnderGrad,Married
-902,1,17256.0,6,Basic,
-903,2,53034.0,160,UnderGrad,Divorced
-904,1,59601.0,691,Masters,Divorced
-905,1,75154.0,543,Masters,
-906,1,47025.0,254,UnderGrad,
-907,1,37971.0,5,UnderGrad,
-908,1,67267.0,134,UnderGrad,
-909,1,57338.0,143,UnderGrad,
-910,2,50523.0,51,Masters,Married
-911,1,50611.0,459,PhD,Divorced
-912,1,56242.0,689,PhD,
-913,1,48904.0,283,UnderGrad,
-914,3,56243.0,347,UnderGrad,
-915,1,21355.0,5,UnderGrad,
-916,1,57420.0,280,Masters,Married
-917,1,46390.0,95,Masters,Divorced
-918,2,54342.0,84,Masters,Married
-919,1,20895.0,18,UnderGrad,
-920,2,44964.0,19,UnderGrad,Married
-921,2,53761.0,158,Masters,
-922,1,22682.0,10,UnderGrad,Married
-923,1,38887.0,25,PhD,Married
-924,2,41658.0,8,Masters,
-925,1,29791.0,14,PhD,
-926,2,63915.0,622,Masters,
-927,2,39996.0,11,UnderGrad,Divorced
-928,1,26759.0,25,UnderGrad,Divorced
-929,2,51039.0,100,PhD,
-930,2,60544.0,201,UnderGrad,
-931,1,37716.0,97,UnderGrad,
-932,1,36864.0,204,UnderGrad,
-933,1,44511.0,513,Masters,
-934,2,36947.0,88,PhD,
-935,1,67087.0,329,Masters,
-936,1,57045.0,296,UnderGrad,
-937,2,36957.0,100,PhD,Divorced
-938,1,69389.0,422,PhD,
-939,2,43142.0,5,Masters,
-940,1,34412.0,52,UnderGrad,
-941,1,57537.0,191,UnderGrad,
-942,3,36026.0,20,UnderGrad,
-943,2,24639.0,20,UnderGrad,
-944,3,34578.0,7,PhD,Married
-945,1,54132.0,30,PhD,Married
-946,1,28164.0,3,UnderGrad,
-947,1,34596.0,14,PhD,
-948,1,43269.0,10,PhD,
-949,2,38741.0,7,Masters,
-950,1,31163.0,2,Masters,Divorced
-951,2,34853.0,9,UnderGrad,
-952,2,70844.0,129,UnderGrad,Divorced
-953,2,31086.0,16,Masters,
-954,2,33402.0,26,UnderGrad,Married
-955,2,36408.0,9,Masters,
-956,1,21645.0,14,UnderGrad,Married
-957,1,52852.0,714,UnderGrad,
-958,1,69401.0,399,Masters,Married
-959,1,46053.0,56,UnderGrad,Married
-960,1,40304.0,37,PhD,
-961,1,43300.0,91,UnderGrad,Divorced
-962,2,26290.0,15,UnderGrad,Married
-963,1,64866.0,508,Masters,Widowed
-964,1,57957.0,290,UnderGrad,Married
-965,1,16531.0,2,UnderGrad,Married
-966,1,28072.0,30,Masters,
-967,1,49476.0,386,Masters,Divorced
-968,1,50725.0,443,UnderGrad,
-969,2,41145.0,9,PhD,
-970,1,67419.0,846,UnderGrad,Married
-971,2,23162.0,8,Masters,
-972,1,34380.0,72,UnderGrad,
-973,1,34704.0,29,UnderGrad,
-974,2,94871.0,169,PhD,
-975,1,65148.0,460,UnderGrad,
-976,1,39898.0,69,UnderGrad,Married
-977,1,59892.0,73,PhD,
-978,1,57072.0,944,PhD,
-979,1,19414.0,2,Masters,Married
-980,1,19107.0,2,UnderGrad,
-981,1,75484.0,378,Masters,Married
-982,1,70379.0,553,Masters,
-983,3,64014.0,406,PhD,Married
-984,1,76998.0,1449,UnderGrad,
-985,1,49854.0,123,Masters,Married
-986,2,60585.0,267,PhD,
-987,2,42873.0,209,PhD,Divorced
-988,1,57867.0,344,UnderGrad,Married
-989,1,35765.0,22,UnderGrad,
-990,1,32952.0,38,UnderGrad,Divorced
-991,1,53374.0,896,PhD,Married
-992,1,71706.0,931,UnderGrad,Married
-993,2,53253.0,216,Masters,Married
-994,1,42014.0,244,UnderGrad,
-995,2,54108.0,539,Masters,
-996,2,57136.0,306,Masters,
-997,1,46772.0,350,Masters,Married
-998,1,53977.0,620,UnderGrad,Married
-999,1,73538.0,811,UnderGrad,
-1000,1,51766.0,60,UnderGrad,
-1001,1,55759.0,675,UnderGrad,
-1002,1,37787.0,40,Masters,
-1003,1,27242.0,3,UnderGrad,
-1004,1,37697.0,34,UnderGrad,
-1005,1,3502.0,2,UnderGrad,
-1006,2,58597.0,490,UnderGrad,
-1007,2,28087.0,53,UnderGrad,Married
-1008,1,19740.0,7,UnderGrad,Married
-1009,1,57036.0,1171,Masters,
-1010,2,53083.0,215,Masters,Married
-1011,1,69283.0,674,PhD,
-1012,2,46098.0,57,Masters,
-1013,1,23331.0,5,Masters,
-1014,1,23331.0,104,Masters,
-1015,1,9255.0,9,UnderGrad,
-1016,1,71969.0,1000,PhD,
-1017,1,59235.0,448,Masters,
-1018,1,31928.0,33,UnderGrad,Married
-1019,2,74881.0,505,Masters,Married
-1020,3,51411.0,14,PhD,
-1021,1,51983.0,631,UnderGrad,Divorced
-1022,1,66033.0,293,UnderGrad,Widowed
-1023,2,37284.0,11,Masters,
-1024,1,57530.0,50,Masters,Divorced
-1025,1,63943.0,423,UnderGrad,
-1026,2,37054.0,12,Masters,
-1027,2,47175.0,167,Masters,Married
-1028,1,31859.0,3,UnderGrad,Divorced
-1029,3,27215.0,30,UnderGrad,Divorced
-1030,1,70179.0,532,PhD,Divorced
-1031,1,24645.0,5,UnderGrad,
-1032,1,79865.0,71,UnderGrad,Divorced
-1033,1,44322.0,46,UnderGrad,
-1034,1,47958.0,268,UnderGrad,
-1035,1,63972.0,928,Masters,
-1036,1,75315.0,459,UnderGrad,Married
-1037,2,55517.0,483,PhD,
-1038,3,75283.0,733,PhD,
-1039,1,27161.0,7,Masters,
-1040,1,38201.0,233,PhD,Married
-1041,2,45203.0,35,UnderGrad,Married
-1042,1,60482.0,255,Masters,
-1043,3,34633.0,8,UnderGrad,Married
-1044,1,45903.0,33,Masters,Married
-1045,2,35860.0,15,PhD,Divorced
-1046,2,40442.0,45,Masters,Married
-1047,1,34968.0,158,UnderGrad,
-1048,1,13724.0,2,Basic,Married
-1049,1,52569.0,85,PhD,
-1050,1,48432.0,322,PhD,
-1051,1,36108.0,141,UnderGrad,
-1052,1,76445.0,739,UnderGrad,
-1053,1,36663.0,18,PhD,
-1054,1,53843.0,378,Masters,
-1055,2,44512.0,23,UnderGrad,Married
-1056,2,27116.0,12,UnderGrad,
-1057,2,54072.0,35,PhD,
-1058,1,71855.0,548,UnderGrad,
-1059,1,51250.0,342,Masters,
-1060,1,60432.0,365,Masters,
-1061,1,33955.0,100,UnderGrad,
-1062,2,31353.0,10,UnderGrad,
-1063,1,55434.0,238,UnderGrad,
-1064,1,28359.0,6,UnderGrad,Married
-1065,1,57100.0,158,UnderGrad,
-1066,1,52973.0,856,Masters,
-1067,1,51717.0,98,PhD,Married
-1068,1,18793.0,4,UnderGrad,
-1069,2,50664.0,313,UnderGrad,
-1070,2,54414.0,109,UnderGrad,Married
-1071,1,54549.0,216,PhD,
-1072,1,47111.0,595,PhD,Widowed
-1073,1,19444.0,16,UnderGrad,Married
-1074,1,36301.0,11,Masters,Married
-1075,1,42731.0,159,PhD,Married
-1076,2,52854.0,105,PhD,
-1077,1,22775.0,5,UnderGrad,Married
-1078,1,59821.0,629,PhD,
-1079,1,50002.0,443,UnderGrad,Divorced
-1080,2,44078.0,24,UnderGrad,
-1081,1,30560.0,9,Masters,Married
-1082,2,35924.0,8,Masters,Married
-1083,2,64140.0,1459,PhD,Divorced
-1084,2,56386.0,230,UnderGrad,Married
-1085,1,75774.0,340,Masters,Married
-1086,1,58494.0,298,Masters,
-1087,2,56551.0,67,PhD,Widowed
-1088,1,22448.0,3,UnderGrad,
-1089,2,34213.0,50,UnderGrad,Widowed
-1090,1,25358.0,19,PhD,Widowed
-1091,1,35544.0,30,Masters,
-1092,1,36634.0,213,Masters,Married
-1093,1,62670.0,539,PhD,
-1094,1,50334.0,284,Masters,Married
-1095,2,50729.0,239,PhD,
-1096,2,34916.0,51,UnderGrad,Married
-1097,1,64892.0,527,UnderGrad,Divorced
-1098,2,43602.0,19,UnderGrad,
-1099,1,41473.0,21,Masters,
-1100,2,63246.0,593,PhD,
-1101,2,36732.0,21,PhD,
-1102,1,69016.0,726,UnderGrad,
-1103,1,27573.0,50,UnderGrad,
-1104,1,15862.0,1,Basic,
-1105,1,49544.0,308,PhD,
-1106,1,33228.0,22,UnderGrad,
-1107,2,38232.0,43,UnderGrad,Married
-1108,2,22554.0,27,PhD,
-1109,1,23536.0,6,PhD,
-1110,1,49413.0,205,UnderGrad,
-1111,2,42231.0,24,UnderGrad,
-1112,1,56534.0,691,UnderGrad,Married
-1113,1,58350.0,493,UnderGrad,
-1114,1,49090.0,494,UnderGrad,
-1115,1,18169.0,9,PhD,
-1116,1,24336.0,1,Masters,
-1117,1,62335.0,243,UnderGrad,Divorced
-1118,2,42033.0,11,Masters,Married
-1119,2,41437.0,29,PhD,Divorced
-1120,2,73705.0,612,Masters,Widowed
-1121,1,61064.0,387,UnderGrad,
-1122,1,18358.0,6,UnderGrad,
-1123,1,55012.0,582,PhD,Married
-1124,1,9722.0,6,Basic,Married
-1125,1,38175.0,70,PhD,
-1126,1,58656.0,962,Masters,Married
-1127,1,52117.0,112,UnderGrad,Married
-1128,1,64813.0,293,UnderGrad,
-1129,1,54222.0,199,PhD,
-1130,1,77520.0,940,Masters,
-1131,1,41154.0,44,UnderGrad,Married
-1132,1,18746.0,2,Basic,
-1133,1,35196.0,75,UnderGrad,Married
-1134,1,60230.0,520,UnderGrad,
-1135,2,22108.0,5,UnderGrad,
-1136,2,44392.0,87,UnderGrad,Married
-1137,1,55424.0,462,PhD,
-1138,1,17688.0,2,UnderGrad,
-1139,1,38513.0,172,PhD,
-1140,1,16653.0,5,Masters,
-1141,2,42586.0,194,UnderGrad,Married
-1142,1,23529.0,9,Basic,
-1143,1,71107.0,533,UnderGrad,
-1144,2,46910.0,48,PhD,Married
-1145,2,37244.0,18,UnderGrad,Divorced
-1146,1,75342.0,204,Masters,
-1147,1,70044.0,1073,UnderGrad,Divorced
-1148,1,54984.0,173,UnderGrad,
-1149,1,42403.0,22,PhD,
-1150,1,55761.0,136,UnderGrad,Married
-1151,1,37292.0,275,UnderGrad,Married
-1152,1,58086.0,708,PhD,Divorced
-1153,1,69901.0,312,UnderGrad,Divorced
-1154,1,63342.0,918,PhD,Married
-1155,1,31859.0,3,Masters,
-1156,1,51569.0,380,PhD,Widowed
-1157,2,16014.0,3,Basic,
-1158,2,41120.0,24,UnderGrad,
-1159,1,39763.0,80,Masters,
-1160,2,38725.0,31,PhD,
-1161,1,77981.0,138,UnderGrad,
-1162,1,62905.0,166,Masters,
-1163,1,13533.0,12,Masters,Divorced
-1164,1,59481.0,178,UnderGrad,Married
-1165,1,72117.0,707,UnderGrad,
-1166,1,21955.0,5,Masters,
-1167,1,67131.0,465,UnderGrad,
-1168,1,36802.0,16,PhD,
-1169,1,47808.0,123,Masters,
-1170,1,25509.0,40,PhD,Divorced
-1171,1,42664.0,21,UnderGrad,
-1172,1,39435.0,71,PhD,Married
-1173,1,20194.0,0,Basic,
-1174,2,42473.0,93,PhD,
-1175,1,71232.0,653,UnderGrad,Married
-1176,2,34600.0,199,UnderGrad,Married
-1177,2,46904.0,153,UnderGrad,
-1178,1,49094.0,376,UnderGrad,
-1179,1,36075.0,46,UnderGrad,Married
-1180,2,60839.0,600,Masters,Married
-1181,2,34074.0,135,UnderGrad,Married
-1182,2,28520.0,11,Masters,
-1183,1,62535.0,163,UnderGrad,
-1184,1,36273.0,29,Masters,
-1185,2,63404.0,734,UnderGrad,Married
-1186,1,78416.0,453,UnderGrad,Married
-1187,1,75702.0,1073,UnderGrad,Married
-1188,2,59385.0,135,Masters,Married
-1189,2,44689.0,18,UnderGrad,
-1190,2,7144.0,81,PhD,
-1191,1,46757.0,777,PhD,
-1192,1,72071.0,531,UnderGrad,Divorced
-1193,1,21840.0,17,PhD,Married
-1194,1,58582.0,402,Masters,Married
-1195,2,50387.0,369,UnderGrad,
-1196,2,32583.0,5,PhD,Married
-1197,1,62568.0,362,UnderGrad,Married
-1198,2,44635.0,56,Masters,Divorced
-1199,1,63967.0,387,UnderGrad,
-1200,1,25293.0,15,UnderGrad,
-1201,1,54111.0,267,PhD,Widowed
-1202,1,22669.0,16,Masters,Married
-1203,1,29236.0,37,UnderGrad,
-1204,1,44911.0,159,UnderGrad,Married
-1205,1,54693.0,686,PhD,
-1206,1,48186.0,97,UnderGrad,Married
-1207,2,54809.0,63,UnderGrad,
-1208,2,41580.0,56,UnderGrad,Married
-1209,1,47743.0,198,UnderGrad,
-1210,1,62972.0,313,Masters,
-1211,1,57333.0,941,PhD,Divorced
-1212,1,32313.0,86,PhD,Married
-1213,1,27071.0,8,Masters,Divorced
-1214,2,65735.0,239,Masters,Married
-1215,2,4023.0,5,PhD,
-1216,1,57705.0,383,PhD,
-1217,1,25008.0,2,UnderGrad,
-1218,1,22280.0,2,UnderGrad,Married
-1219,1,74290.0,1121,Masters,Divorced
-1220,3,58217.0,68,Masters,
-1221,1,54006.0,174,UnderGrad,Married
-1222,1,69063.0,666,PhD,
-1223,1,70886.0,407,UnderGrad,
-1224,2,60208.0,488,UnderGrad,Widowed
-1225,2,32889.0,28,Masters,Married
-1226,1,34738.0,3,UnderGrad,
-1227,1,30538.0,284,Masters,Married
-1228,1,26642.0,13,PhD,Divorced
-1229,1,69932.0,412,UnderGrad,Divorced
-1230,2,44503.0,31,UnderGrad,
-1231,1,60200.0,502,PhD,
-1232,1,49638.0,18,UnderGrad,Divorced
-1233,1,69702.0,664,PhD,Married
-1234,1,70300.0,1045,UnderGrad,Divorced
-1235,1,30396.0,15,PhD,
-1236,1,50616.0,128,PhD,Divorced
-1237,1,62772.0,581,Masters,
-1238,1,52413.0,185,UnderGrad,
-1239,2,44155.0,22,PhD,
-1240,2,76532.0,355,UnderGrad,Married
-1241,1,42081.0,175,UnderGrad,
-1242,1,31158.0,25,UnderGrad,
-1243,1,61671.0,641,UnderGrad,Divorced
-1244,1,49160.0,122,UnderGrad,Divorced
-1245,1,29819.0,9,UnderGrad,Divorced
-1246,1,45688.0,279,UnderGrad,
-1247,1,60491.0,637,PhD,
-1248,1,33235.0,45,UnderGrad,Married
-1249,1,31535.0,15,Masters,
-1250,1,67384.0,957,UnderGrad,
-1251,1,77870.0,1017,UnderGrad,
-1252,1,52278.0,953,PhD,Widowed
-1253,1,57107.0,159,UnderGrad,
-1254,1,36038.0,23,PhD,
-1255,2,34230.0,15,PhD,Married
-1256,1,31878.0,23,Masters,
-1257,1,70932.0,200,Masters,
-1258,2,80982.0,505,UnderGrad,
-1259,1,22701.0,2,Masters,
-1260,2,62694.0,379,Masters,
-1261,2,61917.0,46,PhD,
-1262,1,67472.0,162,PhD,
-1263,1,21059.0,8,Masters,
-1264,2,29543.0,17,Masters,
-1265,1,75903.0,340,UnderGrad,
-1266,2,34984.0,8,Masters,Married
-1267,1,54998.0,154,PhD,
-1268,1,54356.0,710,PhD,Widowed
-1269,1,34242.0,8,Masters,
-1270,1,25410.0,2,UnderGrad,
-1271,1,28320.0,19,UnderGrad,Married
-1272,1,23763.0,22,UnderGrad,
-1273,1,34529.0,68,Masters,
-1274,1,83891.0,217,Masters,
-1275,2,36065.0,18,UnderGrad,
-1276,1,56939.0,256,UnderGrad,
-1277,1,29478.0,8,UnderGrad,Married
-1278,1,46998.0,172,UnderGrad,
-1279,1,70053.0,512,Masters,
-1280,2,44359.0,20,UnderGrad,
-1281,2,40887.0,50,UnderGrad,
-1282,1,48877.0,102,UnderGrad,Divorced
-1283,1,64474.0,381,UnderGrad,Married
-1284,1,77226.0,631,UnderGrad,Married
-1285,1,55686.0,673,UnderGrad,Divorced
-1286,1,39062.0,23,UnderGrad,
-1287,1,40794.0,261,UnderGrad,
-1288,1,4428.0,16,UnderGrad,
-1289,2,38236.0,58,PhD,
-1290,1,36781.0,29,UnderGrad,
-1291,1,31385.0,3,Masters,
-1292,1,24570.0,28,UnderGrad,
-1293,1,58646.0,62,Masters,
-1294,2,53201.0,280,UnderGrad,
-1295,2,57113.0,182,UnderGrad,
-1296,1,23477.0,38,UnderGrad,
-1297,1,58116.0,228,UnderGrad,
-1298,1,39791.0,85,Masters,
-1299,1,94472.0,1017,UnderGrad,
-1300,2,13672.0,6,UnderGrad,Married
-1301,1,56559.0,226,PhD,Married
-1302,1,32644.0,239,PhD,
-1303,1,67506.0,90,Masters,
-1304,1,24206.0,7,UnderGrad,
-1305,1,28420.0,4,PhD,Divorced
-1306,1,22979.0,16,UnderGrad,
-1307,1,30368.0,35,UnderGrad,
-1308,1,63684.0,575,UnderGrad,
-1309,1,41638.0,315,UnderGrad,Divorced
-1310,1,68805.0,182,PhD,Divorced
-1311,1,65814.0,561,PhD,Married
-1312,1,39146.0,94,UnderGrad,
-1313,2,27943.0,12,UnderGrad,Married
-1314,2,22263.0,17,UnderGrad,Divorced
-1315,3,30261.0,8,UnderGrad,Married
-1316,1,28587.0,22,UnderGrad,Married
-1317,1,43815.0,14,Masters,
-1318,2,48195.0,106,UnderGrad,
-1319,1,77027.0,820,Masters,
-1320,1,71322.0,753,PhD,
-1321,1,32765.0,13,Masters,
-1322,1,49912.0,520,Masters,Married
-1323,1,7500.0,5,Masters,Married
-1324,1,68117.0,618,PhD,Widowed
-1325,1,67225.0,315,UnderGrad,
-1326,1,17649.0,15,UnderGrad,
-1327,1,55914.0,384,UnderGrad,Married
-1328,1,40059.0,110,UnderGrad,
-1329,1,60905.0,208,UnderGrad,Married
-1330,2,75330.0,555,UnderGrad,
-1331,1,60689.0,240,UnderGrad,
-1332,1,38680.0,11,UnderGrad,
-1333,3,83273.0,433,UnderGrad,
-1334,1,29009.0,6,UnderGrad,
-1335,1,45057.0,37,Masters,
-1336,1,37150.0,167,UnderGrad,
-1337,1,43020.0,45,UnderGrad,
-1338,1,53154.0,129,UnderGrad,
-1339,1,76467.0,676,UnderGrad,
-1340,2,32871.0,22,UnderGrad,
-1341,2,55801.0,367,UnderGrad,
-1342,1,76320.0,526,UnderGrad,Widowed
-1343,2,36927.0,51,Masters,
-1344,2,48794.0,25,UnderGrad,Married
-1345,1,71128.0,958,UnderGrad,Divorced
-1346,1,59462.0,724,UnderGrad,
-1347,2,42554.0,29,UnderGrad,Married
-1348,1,67046.0,544,UnderGrad,Widowed
-1349,1,77610.0,1245,PhD,
-1350,1,31761.0,19,UnderGrad,
-1351,1,34350.0,16,UnderGrad,Married
-1352,1,54591.0,376,UnderGrad,Married
-1353,1,71866.0,184,UnderGrad,
-1354,1,64713.0,180,UnderGrad,Divorced
-1355,1,27889.0,14,Masters,
-1356,1,27803.0,8,UnderGrad,
-1357,1,51651.0,293,UnderGrad,
-1358,1,79823.0,835,UnderGrad,
-1359,1,30828.0,16,UnderGrad,
-1360,1,34109.0,9,Masters,
-1361,2,53367.0,229,Masters,Divorced
-1362,1,71322.0,121,UnderGrad,Married
-1363,2,48699.0,26,PhD,
-1364,2,54252.0,178,UnderGrad,
-1365,1,81929.0,1486,Masters,
-1366,1,76068.0,1115,UnderGrad,
-1367,2,53204.0,29,Masters,
-1368,1,14796.0,13,Masters,
-1369,1,78128.0,934,PhD,
-1370,1,72967.0,158,UnderGrad,Divorced
-1371,1,48150.0,173,Masters,
-1372,2,58275.0,189,UnderGrad,Widowed
-1373,2,34587.0,7,UnderGrad,Married
-1374,1,43018.0,35,Masters,Married
-1375,1,45736.0,188,Masters,
-1376,1,66476.0,742,Masters,Married
-1377,1,27733.0,0,Masters,
-1378,1,69805.0,750,PhD,Married
-1379,1,25818.0,5,UnderGrad,Divorced
-1380,1,37509.0,37,Masters,Married
-1381,2,25176.0,4,Masters,Married
-1382,1,43586.0,99,UnderGrad,
-1383,1,53230.0,176,Masters,
-1384,2,50116.0,54,UnderGrad,Married
-1385,3,33590.0,4,UnderGrad,Married
-1386,1,16005.0,1,Basic,
-1387,1,58692.0,301,UnderGrad,
-1388,2,40590.0,154,UnderGrad,Widowed
-1389,1,62637.0,104,Masters,Divorced
-1390,2,29435.0,70,Masters,Divorced
-1391,1,19346.0,2,UnderGrad,Divorced
-1392,2,35788.0,23,UnderGrad,
-1393,2,36997.0,43,UnderGrad,Divorced
-1394,1,65333.0,654,UnderGrad,
-1395,1,29732.0,25,PhD,Married
-1396,3,41275.0,24,Masters,Married
-1397,2,63516.0,141,PhD,Married
-1398,1,42769.0,71,PhD,
-1399,2,49572.0,35,Masters,
-1400,1,17148.0,9,UnderGrad,
-1401,1,32146.0,26,Masters,
-1402,2,41713.0,77,Masters,Divorced
-1403,1,34176.0,11,Masters,Married
-1404,1,58482.0,576,PhD,
-1405,1,59686.0,89,UnderGrad,
-1406,1,60896.0,1013,PhD,
-1407,1,62994.0,224,UnderGrad,Married
-1408,1,47320.0,200,UnderGrad,Married
-1409,1,15253.0,1,Basic,
-1410,1,31560.0,62,PhD,
-1411,2,41967.0,23,UnderGrad,
-1412,1,69263.0,492,UnderGrad,
-1413,1,60934.0,224,UnderGrad,Married
-1414,1,71965.0,572,UnderGrad,
-1415,1,65210.0,626,UnderGrad,
-1416,1,48432.0,322,PhD,
-1417,1,52914.0,254,UnderGrad,
-1418,1,26067.0,22,UnderGrad,
-1419,1,44325.0,516,PhD,
-1420,1,26487.0,2,Basic,
-1421,1,53233.0,28,Masters,
-1422,1,67716.0,530,UnderGrad,
-1423,1,76234.0,519,Masters,
-1424,1,25224.0,4,Basic,
-1425,2,40851.0,23,UnderGrad,Divorced
-1426,1,73803.0,833,UnderGrad,
-1427,2,8820.0,12,Masters,
-1428,1,55593.0,293,UnderGrad,Married
-1429,2,50501.0,297,UnderGrad,
-1430,2,37085.0,39,UnderGrad,
-1431,1,16185.0,5,Basic,
-1432,1,57731.0,266,UnderGrad,
-1433,1,73807.0,366,UnderGrad,
-1434,2,35893.0,158,UnderGrad,
-1435,1,61014.0,269,UnderGrad,
-1436,2,32144.0,41,UnderGrad,Married
-1437,1,14918.0,3,Basic,Married
-1438,2,45146.0,33,UnderGrad,Divorced
-1439,1,41769.0,302,Masters,Divorced
-1440,2,38054.0,23,Masters,Divorced
-1441,1,5305.0,12,UnderGrad,
-1442,2,36807.0,4,UnderGrad,Married
-1443,1,40101.0,171,Masters,Married
-1444,1,58025.0,270,UnderGrad,
-1445,1,7500.0,2,Masters,Married
-1446,3,33562.0,21,Masters,
-1447,1,57642.0,580,PhD,
-1448,2,63777.0,457,UnderGrad,
-1449,1,57967.0,229,UnderGrad,
-1450,2,24434.0,3,UnderGrad,
-1451,1,11012.0,24,UnderGrad,
-1452,1,61223.0,709,UnderGrad,
-1453,1,69245.0,428,Masters,Married
-1454,2,52869.0,84,PhD,
+Customer ID,Kids, Income , MntWines ,Education,Marital_Status
+1,2," $46,344.00 ", $11.00 ,UnderGrad,
+2,1," $26,646.00 ", $11.00 ,UnderGrad,Married
+3,1," $58,293.00 ", $173.00 ,PhD,
+4,1," $62,513.00 ", $520.00 ,Masters,Married
+5,1," $55,635.00 ", $235.00 ,UnderGrad,Divorced
+6,1," $33,454.00 ", $76.00 ,PhD,
+7,1," $30,351.00 ", $14.00 ,PhD,Married
+8,2," $5,648.00 ", $28.00 ,PhD,Married
+9,2," $59,354.00 ", $233.00 ,Masters,Divorced
+10,2," $41,850.00 ", $53.00 ,UnderGrad,
+11,1," $76,995.00 "," $1,012.00 ",Masters,
+12,1," $33,812.00 ", $4.00 ,Masters,
+13,1," $2,447.00 ", $1.00 ,UnderGrad,
+14,1," $58,607.00 ", $867.00 ,PhD,
+15,1," $65,324.00 ", $384.00 ,PhD,
+16,1," $40,689.00 ", $270.00 ,UnderGrad,Married
+17,2," $53,359.00 ", $173.00 ,UnderGrad,
+18,1," $38,360.00 ", $36.00 ,UnderGrad,
+19,1," $40,548.00 ", $110.00 ,UnderGrad,Married
+20,2," $46,610.00 ", $96.00 ,PhD,Divorced
+21,2," $49,389.00 ", $40.00 ,Masters,
+22,1," $67,353.00 ", $702.00 ,PhD,
+23,1," $23,718.00 ", $6.00 ,Masters,
+24,1," $42,429.00 ", $55.00 ,UnderGrad,Widowed
+25,1," $80,011.00 ", $421.00 ,UnderGrad,
+26,1," $20,559.00 ", $13.00 ,Masters,
+27,1," $21,994.00 ", $9.00 ,UnderGrad,Married
+28,1," $7,500.00 ", $3.00 ,Masters,
+29,1," $41,728.00 ", $13.00 ,UnderGrad,Married
+30,2," $72,550.00 ", $826.00 ,PhD,
+31,1," $65,486.00 ", $245.00 ,UnderGrad,Widowed
+32,1," $35,790.00 ", $12.00 ,UnderGrad,
+33,2," $66,373.00 ", $328.00 ,UnderGrad,
+34,1," $27,938.00 ", $13.00 ,UnderGrad,
+35,1," $55,954.00 ", $447.00 ,PhD,
+36,2," $66,653.00 ", $452.00 ,UnderGrad,Married
+37,1," $61,823.00 ", $523.00 ,UnderGrad,
+38,1," $67,680.00 ", $546.00 ,PhD,Widowed
+39,1," $25,721.00 ", $1.00 ,UnderGrad,
+40,2," $32,474.00 ", $10.00 ,UnderGrad,Married
+41,1," $88,194.00 ", $688.00 ,Masters,
+42,1," $69,096.00 ", $247.00 ,UnderGrad,Married
+43,3," $74,854.00 ", $856.00 ,UnderGrad,Married
+44,1," $65,031.00 ", $258.00 ,UnderGrad,
+45,2," $60,631.00 ", $565.00 ,PhD,
+46,1," $40,246.00 ", $2.00 ,UnderGrad,Divorced
+47,1," $29,760.00 ", $64.00 ,UnderGrad,
+48,1," $26,304.00 ", $4.00 ,UnderGrad,
+49,1," $23,559.00 ", $25.00 ,Masters,
+50,2," $29,440.00 ", $17.00 ,UnderGrad,
+51,2," $36,138.00 ", $130.00 ,Masters,
+52,1," $50,388.00 ", $292.00 ,UnderGrad,
+53,1," $54,178.00 ", $135.00 ,UnderGrad,Married
+54,1," $42,394.00 ", $15.00 ,Masters,
+55,1," $23,626.00 ", $27.00 ,PhD,
+56,1," $30,096.00 ", $5.00 ,UnderGrad,
+57,1," $47,916.00 ", $505.00 ,UnderGrad,Widowed
+58,2," $51,813.00 ", $51.00 ,UnderGrad,Divorced
+59,1," $47,823.00 ", $53.00 ,Masters,
+60,1," $34,554.00 ", $41.00 ,PhD,
+61,1," $85,693.00 ", $386.00 ,UnderGrad,Married
+62,1," $24,594.00 ", $1.00 ,Basic,Married
+63,2," $49,096.00 ", $144.00 ,UnderGrad,
+64,2," $52,413.00 ", $295.00 ,UnderGrad,
+65,1," $38,557.00 ", $76.00 ,UnderGrad,
+66,1," $77,298.00 ", $425.00 ,UnderGrad,Married
+67,1," $57,288.00 ", $527.00 ,Masters,Married
+68,1," $43,974.00 ", $378.00 ,PhD,
+69,2," $50,785.00 ", $64.00 ,UnderGrad,
+70,1," $36,550.00 ", $47.00 ,Masters,
+71,2," $30,753.00 ", $12.00 ,Masters,Married
+72,1," $21,918.00 ", $1.00 ,UnderGrad,Married
+73,1," $56,129.00 ", $320.00 ,Masters,Married
+74,1," $32,557.00 ", $34.00 ,Masters,
+75,2," $19,510.00 ", $9.00 ,Masters,
+76,1," $30,992.00 ", $17.00 ,UnderGrad,Divorced
+77,2," $54,348.00 ", $70.00 ,Masters,
+78,2," $77,376.00 ", $492.00 ,PhD,Married
+79,1," $62,998.00 ", $120.00 ,UnderGrad,
+80,2," $61,331.00 ", $534.00 ,Masters,
+81,2," $41,551.00 ", $220.00 ,PhD,
+82,1," $9,548.00 ", $-   ,Basic,Divorced
+83,3," $33,762.00 ", $53.00 ,PhD,
+84,2," $35,860.00 ", $15.00 ,PhD,
+85,2," $36,921.00 ", $17.00 ,PhD,Divorced
+86,1," $65,104.00 ", $738.00 ,Masters,Married
+87,1," $68,352.00 ", $614.00 ,PhD,
+88,1," $41,883.00 ", $32.00 ,UnderGrad,Married
+89,2," $59,809.00 ", $598.00 ,UnderGrad,
+90,1," $23,957.00 ", $2.00 ,UnderGrad,
+91,1," $38,547.00 ", $6.00 ,UnderGrad,Married
+92,3," $35,688.00 ", $73.00 ,Masters,
+93,2," $59,354.00 ", $295.00 ,Masters,
+94,1," $65,747.00 ", $346.00 ,UnderGrad,
+95,1," $46,344.00 ", $233.00 ,Masters,Married
+96,1," $34,176.00 ", $5.00 ,UnderGrad,
+97,1," $61,010.00 ", $888.00 ,PhD,Married
+98,1," $49,967.00 ", $212.00 ,UnderGrad,
+99,3," $60,199.00 ", $8.00 ,UnderGrad,
+100,1," $55,375.00 ", $42.00 ,UnderGrad,Married
+101,3," $30,523.00 ", $5.00 ,Masters,
+102,1," $23,228.00 ", $53.00 ,UnderGrad,
+103,3," $43,482.00 ", $18.00 ,UnderGrad,Married
+104,2," $26,091.00 ", $15.00 ,UnderGrad,Married
+105,2," $33,456.00 ", $7.00 ,UnderGrad,Married
+106,1," $28,718.00 ", $12.00 ,UnderGrad,
+107,2," $50,447.00 ", $85.00 ,UnderGrad,
+108,2," $53,537.00 ", $81.00 ,PhD,Married
+109,1," $52,074.00 ", $59.00 ,UnderGrad,
+110,1," $80,427.00 "," $1,149.00 ",PhD,
+111,2," $38,853.00 ", $29.00 ,PhD,
+112,3," $38,285.00 ", $2.00 ,UnderGrad,Married
+113,1," $51,650.00 ", $152.00 ,PhD,
+114,1," $16,248.00 ", $12.00 ,Masters,
+115,1," $30,477.00 ", $47.00 ,Masters,
+116,1," $25,271.00 ", $10.00 ,UnderGrad,
+117,1," $32,303.00 ", $35.00 ,PhD,
+118,1," $61,286.00 ", $356.00 ,UnderGrad,
+119,2," $45,759.00 ", $42.00 ,PhD,
+120,1," $24,882.00 ", $1.00 ,Basic,Married
+121,1," $38,872.00 ", $23.00 ,UnderGrad,
+122,2," $51,148.00 ", $235.00 ,UnderGrad,
+123,2," $31,353.00 ", $10.00 ,UnderGrad,
+124,2," $46,854.00 ", $96.00 ,PhD,
+125,1," $69,142.00 ", $448.00 ,UnderGrad,Divorced
+126,1," $63,693.00 ", $587.00 ,UnderGrad,Divorced
+127,2," $40,637.00 ", $22.00 ,PhD,
+128,1," $29,604.00 ", $7.00 ,UnderGrad,Married
+129,2," $48,721.00 ", $81.00 ,Masters,Divorced
+130,1," $44,794.00 ", $54.00 ,UnderGrad,
+131,1," $64,497.00 "," $1,170.00 ",UnderGrad,Divorced
+132,1," $46,097.00 ", $72.00 ,UnderGrad,Married
+133,2," $44,377.00 ", $224.00 ,PhD,
+134,2," $46,014.00 ", $410.00 ,Masters,Married
+135,1," $41,443.00 ", $171.00 ,UnderGrad,
+136,3," $52,195.00 ", $12.00 ,Masters,
+137,1," $44,551.00 ", $182.00 ,Masters,Widowed
+138,1," $69,508.00 ", $824.00 ,UnderGrad,Married
+139,1," $45,204.00 ", $30.00 ,Masters,Married
+140,2," $77,622.00 ", $520.00 ,PhD,Married
+141,1," $30,732.00 ", $155.00 ,PhD,
+142,1," $63,887.00 ", $897.00 ,UnderGrad,Divorced
+143,1," $42,011.00 ", $131.00 ,UnderGrad,Married
+144,1," $51,369.00 ", $297.00 ,UnderGrad,Married
+145,1," $51,537.00 ", $787.00 ,UnderGrad,Divorced
+146,1," $34,320.00 ", $4.00 ,PhD,Married
+147,2," $37,070.00 ", $231.00 ,UnderGrad,
+148,1," $81,975.00 ", $983.00 ,Masters,Divorced
+149,1," $38,590.00 ", $3.00 ,UnderGrad,Married
+150,1," $62,745.00 ", $562.00 ,PhD,
+151,1," $22,212.00 ", $5.00 ,Masters,
+152,1," $23,661.00 ", $18.00 ,Masters,Married
+153,1," $79,761.00 ", $415.00 ,PhD,
+154,1," $7,500.00 ", $5.00 ,UnderGrad,
+155,1," $64,961.00 ", $382.00 ,UnderGrad,Married
+156,1," $22,804.00 ", $14.00 ,UnderGrad,
+157,1," $61,074.00 ", $789.00 ,UnderGrad,
+158,2," $31,686.00 ", $11.00 ,PhD,
+159,1," $80,134.00 "," $1,218.00 ",UnderGrad,
+160,1," $75,027.00 ", $925.00 ,UnderGrad,
+161,1," $65,176.00 ", $960.00 ,Masters,Married
+162,1," $31,160.00 ", $16.00 ,Masters,
+163,1," $29,938.00 ", $3.00 ,UnderGrad,
+164,2," $75,702.00 ", $650.00 ,UnderGrad,Married
+165,1," $30,899.00 ", $24.00 ,PhD,
+166,1," $63,342.00 ", $918.00 ,PhD,Married
+167,1," $45,989.00 ", $138.00 ,UnderGrad,
+168,2," $18,701.00 ", $12.00 ,UnderGrad,
+169,3," $40,737.00 ", $11.00 ,PhD,
+170,1," $15,287.00 ", $1.00 ,UnderGrad,Divorced
+171,2," $69,674.00 ", $554.00 ,PhD,Divorced
+172,1," $44,159.00 ", $167.00 ,Masters,
+173,1," $37,717.00 ", $9.00 ,PhD,
+174,2," $43,776.00 ", $177.00 ,Masters,Married
+175,2," $38,179.00 ", $38.00 ,Masters,
+176,2," $38,097.00 ", $77.00 ,PhD,
+177,1," $22,070.00 ", $10.00 ,UnderGrad,Married
+178,1," $31,788.00 ", $16.00 ,Masters,
+179,1," $61,905.00 ", $167.00 ,PhD,Married
+180,2," $29,315.00 ", $13.00 ,UnderGrad,
+181,2," $33,378.00 ", $33.00 ,UnderGrad,Divorced
+182,1," $66,313.00 ", $625.00 ,PhD,Married
+183,1," $63,841.00 ", $635.00 ,Masters,Divorced
+184,1," $24,480.00 ", $4.00 ,Basic,
+185,1," $65,640.00 ", $204.00 ,PhD,Married
+186,2," $44,319.00 ", $26.00 ,Masters,
+187,1," $30,631.00 ", $15.00 ,UnderGrad,
+188,2," $50,898.00 ", $285.00 ,Masters,Married
+189,1," $38,361.00 ", $39.00 ,UnderGrad,Married
+190,2," $16,626.00 ", $8.00 ,UnderGrad,Married
+191,2," $29,672.00 ", $9.00 ,UnderGrad,Married
+192,1," $55,951.00 "," $1,241.00 ",Masters,Married
+193,1," $35,388.00 ", $6.00 ,Masters,Divorced
+194,1," $42,386.00 ", $65.00 ,Masters,Married
+195,1," $57,912.00 ", $801.00 ,PhD,Divorced
+196,2," $35,246.00 ", $36.00 ,UnderGrad,Divorced
+197,1," $58,821.00 ", $513.00 ,Masters,Married
+198,1," $46,377.00 ", $37.00 ,PhD,
+199,1," $39,747.00 ", $80.00 ,UnderGrad,
+200,1," $23,976.00 ", $14.00 ,UnderGrad,Married
+201,1," $64,100.00 ", $509.00 ,Masters,
+202,1," $12,571.00 ", $3.00 ,UnderGrad,Divorced
+203,3," $22,574.00 ", $25.00 ,UnderGrad,
+204,2," $54,198.00 ", $185.00 ,UnderGrad,
+205,2," $28,839.00 ", $24.00 ,Masters,Married
+206,2," $40,321.00 ", $44.00 ,UnderGrad,
+207,1," $66,503.00 ", $91.00 ,UnderGrad,
+208,2," $30,833.00 ", $11.00 ,UnderGrad,
+209,1," $64,795.00 ", $412.00 ,UnderGrad,
+210,1," $34,421.00 ", $3.00 ,UnderGrad,
+211,2," $47,025.00 ", $16.00 ,PhD,Divorced
+212,1," $64,325.00 ", $731.00 ,PhD,Divorced
+213,1," $40,464.00 ", $424.00 ,UnderGrad,
+214,1," $14,849.00 ", $21.00 ,PhD,Divorced
+215,1," $27,255.00 ", $22.00 ,UnderGrad,
+216,3," $54,432.00 ", $33.00 ,PhD,
+217,1," $29,999.00 ", $68.00 ,PhD,
+218,1," $24,072.00 ", $9.00 ,UnderGrad,
+219,1," $66,334.00 ", $909.00 ,PhD,
+220,1," $35,178.00 ", $23.00 ,Masters,
+221,1," $22,010.00 ", $11.00 ,UnderGrad,Married
+222,2," $62,204.00 ", $317.00 ,UnderGrad,Divorced
+223,1," $30,675.00 ", $10.00 ,UnderGrad,
+224,1," $55,212.00 "," $1,103.00 ",PhD,
+225,1," $59,292.00 ", $378.00 ,PhD,Married
+226,1," $27,190.00 ", $1.00 ,Basic,Married
+227,2," $44,300.00 ", $30.00 ,UnderGrad,
+228,2," $30,372.00 ", $15.00 ,UnderGrad,Widowed
+229,1," $33,181.00 ", $9.00 ,Masters,
+230,1," $71,113.00 ", $495.00 ,UnderGrad,
+231,1," $71,952.00 ", $656.00 ,UnderGrad,
+232,1," $60,000.00 "," $1,048.00 ",PhD,
+233,2," $38,643.00 ", $22.00 ,UnderGrad,
+234,1," $50,737.00 ", $78.00 ,UnderGrad,
+235,2," $46,681.00 ", $269.00 ,PhD,Married
+236,1," $62,187.00 ", $512.00 ,PhD,Widowed
+237,2," $28,442.00 ", $19.00 ,UnderGrad,
+238,2," $51,479.00 ", $247.00 ,UnderGrad,
+239,1," $54,803.00 ", $404.00 ,UnderGrad,
+240,1," $31,615.00 ", $2.00 ,UnderGrad,Divorced
+241,1," $52,614.00 ", $789.00 ,PhD,
+242,1," $35,684.00 ", $10.00 ,Masters,
+243,2," $48,178.00 ", $159.00 ,UnderGrad,
+244,1," $29,548.00 ", $7.00 ,Masters,
+245,1," $63,810.00 ", $977.00 ,UnderGrad,
+246,2," $38,578.00 ", $38.00 ,PhD,
+247,2," $46,098.00 ", $57.00 ,Masters,
+248,1," $30,279.00 ", $10.00 ,UnderGrad,
+249,1," $66,426.00 "," $1,043.00 ",PhD,Married
+250,1," $30,822.00 ", $3.00 ,UnderGrad,
+251,2," $33,581.00 ", $11.00 ,PhD,
+252,1," $19,986.00 ", $3.00 ,UnderGrad,
+253,1," $36,143.00 ", $12.00 ,Masters,
+254,1," $10,245.00 ", $4.00 ,UnderGrad,
+255,1," $43,795.00 ", $314.00 ,Masters,Married
+256,1," $63,381.00 ", $571.00 ,UnderGrad,Married
+257,1," $38,823.00 ", $70.00 ,UnderGrad,Married
+258,2," $83,664.00 ", $866.00 ,PhD,Divorced
+259,1," $62,499.00 ", $140.00 ,Masters,Married
+260,1," $70,777.00 ", $554.00 ,Masters,
+261,2," $43,824.00 ", $96.00 ,UnderGrad,
+262,1," $15,345.00 ", $5.00 ,UnderGrad,Married
+263,1," $23,442.00 ", $2.00 ,UnderGrad,
+264,1," $14,515.00 ", $6.00 ,Masters,Married
+265,2," $31,395.00 ", $23.00 ,Masters,Divorced
+266,2," $42,373.00 ", $67.00 ,UnderGrad,
+267,3," $55,521.00 ", $416.00 ,PhD,
+268,2," $48,006.00 ", $23.00 ,UnderGrad,
+269,1," $27,213.00 ", $19.00 ,PhD,
+270,2," $65,808.00 ", $155.00 ,PhD,Divorced
+271,1," $30,351.00 ", $14.00 ,PhD,Married
+272,2," $50,437.00 ", $370.00 ,UnderGrad,
+273,1," $23,616.00 ", $4.00 ,Masters,
+274,1," $53,858.00 ", $407.00 ,UnderGrad,
+275,1," $66,465.00 "," $1,200.00 ",PhD,
+276,1," $46,923.00 ", $85.00 ,UnderGrad,
+277,1," $75,072.00 ", $583.00 ,UnderGrad,Married
+278,1," $19,789.00 ", $2.00 ,Masters,Married
+279,2," $49,505.00 ", $604.00 ,Masters,
+280,1," $37,401.00 ", $19.00 ,PhD,
+281,1," $18,492.00 ", $2.00 ,Masters,Married
+282,3," $48,686.00 ", $10.00 ,UnderGrad,
+283,1," $75,433.00 ", $800.00 ,UnderGrad,
+284,1," $10,404.00 ", $2.00 ,Masters,Married
+285,1," $61,314.00 ", $378.00 ,UnderGrad,
+286,1," $42,387.00 ", $235.00 ,UnderGrad,
+287,2," $67,309.00 ", $515.00 ,Masters,Married
+288,1," $75,236.00 ", $438.00 ,UnderGrad,
+289,1," $30,015.00 ", $25.00 ,UnderGrad,
+290,1," $50,943.00 ", $31.00 ,Masters,Married
+291,1," $67,272.00 ", $357.00 ,UnderGrad,Divorced
+292,1," $51,529.00 ", $400.00 ,Masters,Widowed
+293,1," $32,011.00 ", $99.00 ,PhD,
+294,1," $7,500.00 ", $1.00 ,Masters,
+295,1," $28,691.00 ", $5.00 ,UnderGrad,
+296,1," $56,223.00 ", $77.00 ,PhD,
+297,1," $42,618.00 ", $76.00 ,Masters,Divorced
+298,1," $24,027.00 ", $14.00 ,UnderGrad,
+299,1," $55,707.00 ", $208.00 ,PhD,
+300,1," $57,959.00 ", $430.00 ,UnderGrad,
+301,1," $56,796.00 ", $656.00 ,UnderGrad,
+302,1," $36,230.00 ", $14.00 ,Masters,
+303,2," $70,829.00 ", $141.00 ,Masters,
+304,1," $65,991.00 ", $507.00 ,UnderGrad,
+305,3," $38,988.00 ", $164.00 ,UnderGrad,
+306,1," $42,207.00 ", $116.00 ,Masters,
+307,1," $50,300.00 ", $143.00 ,UnderGrad,
+308,1," $60,597.00 ", $522.00 ,UnderGrad,
+309,1," $50,520.00 ", $112.00 ,PhD,Widowed
+310,1," $33,183.00 ", $7.00 ,UnderGrad,
+311,1," $31,880.00 ", $4.00 ,UnderGrad,Widowed
+312,2," $53,790.00 ", $335.00 ,UnderGrad,
+313,1," $49,269.00 ", $639.00 ,PhD,Married
+314,1," $61,456.00 ", $563.00 ,UnderGrad,
+315,1," $37,406.00 ", $2.00 ,UnderGrad,
+316,1," $56,937.00 ", $746.00 ,PhD,Married
+317,2," $38,415.00 ", $22.00 ,UnderGrad,
+318,1," $20,518.00 ", $4.00 ,UnderGrad,
+319,1," $62,503.00 ", $478.00 ,UnderGrad,
+320,2," $41,644.00 ", $20.00 ,PhD,
+321,1," $55,842.00 ", $451.00 ,Masters,
+322,1," $62,010.00 ", $371.00 ,PhD,
+323,1," $41,124.00 ", $281.00 ,UnderGrad,
+324,1," $38,961.00 ", $19.00 ,Masters,
+325,1," $37,760.00 ", $26.00 ,Masters,Divorced
+326,1," $32,233.00 ", $138.00 ,UnderGrad,
+327,1," $43,057.00 ", $213.00 ,UnderGrad,
+328,1," $65,104.00 ", $738.00 ,Masters,Married
+329,1," $60,093.00 ", $502.00 ,UnderGrad,
+330,1," $14,045.00 ", $11.00 ,UnderGrad,
+331,1," $78,952.00 "," $1,170.00 ",PhD,Married
+332,1," $46,310.00 ", $185.00 ,UnderGrad,Divorced
+333,1," $58,308.00 ", $691.00 ,Masters,
+334,1," $59,432.00 ", $317.00 ,Masters,Divorced
+335,1," $55,563.00 ", $29.00 ,UnderGrad,Divorced
+336,1," $78,642.00 "," $1,396.00 ",PhD,Married
+337,1," $67,911.00 ", $529.00 ,PhD,Married
+338,2," $27,203.00 ", $13.00 ,UnderGrad,Married
+339,1," $48,330.00 ", $28.00 ,Masters,Married
+340,1," $64,355.00 "," $1,047.00 ",PhD,
+341,1," $65,665.00 ", $225.00 ,UnderGrad,
+342,1," $61,250.00 ", $382.00 ,UnderGrad,Divorced
+343,1," $39,665.00 ", $127.00 ,PhD,Married
+344,1," $60,152.00 ", $325.00 ,UnderGrad,
+345,2," $48,920.00 ", $238.00 ,UnderGrad,
+346,1," $44,124.00 ", $284.00 ,PhD,Married
+347,2," $36,443.00 ", $65.00 ,UnderGrad,
+348,1," $26,095.00 ", $11.00 ,UnderGrad,
+349,2," $30,630.00 ", $27.00 ,UnderGrad,Divorced
+350,1," $25,545.00 ", $32.00 ,UnderGrad,
+351,1," $32,880.00 ", $8.00 ,UnderGrad,
+352,2," $49,154.00 ", $206.00 ,PhD,
+353,1," $47,682.00 ", $162.00 ,Masters,Widowed
+354,1," $72,679.00 ", $619.00 ,UnderGrad,
+355,2," $57,954.00 ", $456.00 ,Masters,Married
+356,2," $65,316.00 ", $112.00 ,UnderGrad,
+357,1," $28,567.00 ", $11.00 ,UnderGrad,
+358,1," $47,352.00 ", $172.00 ,Masters,Married
+359,1," $44,931.00 ", $78.00 ,UnderGrad,Married
+360,1," $57,247.00 ", $99.00 ,Masters,Married
+361,1," $22,944.00 ", $19.00 ,Masters,
+362,1," $25,315.00 ", $1.00 ,Masters,Married
+363,1," $43,638.00 ", $63.00 ,UnderGrad,Widowed
+364,1," $42,710.00 ", $252.00 ,PhD,
+365,1," $54,058.00 ", $198.00 ,UnderGrad,Married
+366,1," $24,683.00 ", $8.00 ,Masters,
+367,1," $47,850.00 ", $42.00 ,UnderGrad,
+368,2," $19,514.00 ", $14.00 ,UnderGrad,
+369,2," $27,159.00 ", $17.00 ,Masters,
+370,2," $39,548.00 ", $15.00 ,Masters,
+371,1," $21,474.00 ", $6.00 ,UnderGrad,
+372,1," $60,504.00 ", $458.00 ,PhD,
+373,2," $43,462.00 ", $90.00 ,UnderGrad,Married
+374,1," $54,880.00 ", $308.00 ,PhD,
+375,1," $87,771.00 "," $1,492.00 ",UnderGrad,Married
+376,1," $33,039.00 ", $30.00 ,UnderGrad,
+377,1," $71,499.00 ", $465.00 ,Masters,Married
+378,1," $62,466.00 ", $129.00 ,Masters,
+379,1," $48,799.00 ", $174.00 ,PhD,Divorced
+380,1," $52,157.00 ", $189.00 ,PhD,Married
+381,1," $66,565.00 ", $747.00 ,UnderGrad,
+382,2," $29,298.00 ", $6.00 ,Masters,Married
+383,1," $47,691.00 ", $14.00 ,UnderGrad,
+384,2," $38,200.00 ", $12.00 ,UnderGrad,Married
+385,1," $44,989.00 ", $98.00 ,UnderGrad,
+386,2," $38,443.00 ", $32.00 ,PhD,
+387,1," $38,593.00 ", $51.00 ,Masters,
+388,1," $64,413.00 ", $200.00 ,PhD,Married
+389,1," $36,959.00 ", $25.00 ,Masters,
+390,1," $61,996.00 "," $1,050.00 ",PhD,
+391,2," $51,287.00 ", $117.00 ,UnderGrad,
+392,2," $13,260.00 ", $9.00 ,UnderGrad,
+393,2," $47,472.00 ", $56.00 ,PhD,Married
+394,2," $54,603.00 ", $145.00 ,Masters,Married
+395,2," $45,207.00 ", $203.00 ,PhD,
+396,2," $47,821.00 ", $9.00 ,Masters,Married
+397,1," $39,453.00 ", $46.00 ,UnderGrad,Married
+398,2," $26,850.00 ", $31.00 ,Masters,Married
+399,1," $61,794.00 ", $264.00 ,Masters,
+400,1," $53,863.00 ", $399.00 ,UnderGrad,Married
+401,1," $39,684.00 ", $19.00 ,PhD,
+402,1," $33,178.00 ", $12.00 ,UnderGrad,Married
+403,1," $17,459.00 ", $6.00 ,Masters,Married
+404,1," $23,910.00 ", $16.00 ,UnderGrad,Divorced
+405,2," $42,169.00 ", $19.00 ,Masters,
+406,1," $26,224.00 ", $4.00 ,Masters,
+407,1," $31,089.00 ", $31.00 ,UnderGrad,Married
+408,1," $30,081.00 ", $36.00 ,UnderGrad,
+409,1," $62,807.00 ", $526.00 ,UnderGrad,Married
+410,2," $61,467.00 ", $410.00 ,PhD,
+411,2," $49,618.00 ", $80.00 ,Masters,Married
+412,1," $21,888.00 ", $88.00 ,Masters,
+413,3," $26,150.00 ", $5.00 ,UnderGrad,Divorced
+414,1," $30,801.00 ", $8.00 ,Basic,
+415,1," $18,978.00 ", $2.00 ,Basic,
+416,2," $45,837.00 ", $215.00 ,UnderGrad,
+417,3," $35,791.00 ", $27.00 ,Masters,
+418,2," $54,162.00 ", $5.00 ,UnderGrad,Widowed
+419,1," $30,522.00 ", $179.00 ,Masters,
+420,1," $54,456.00 ", $352.00 ,PhD,
+421,1," $36,975.00 ", $10.00 ,Masters,
+422,1," $13,624.00 ", $10.00 ,UnderGrad,
+423,1," $84,196.00 ", $215.00 ,UnderGrad,
+424,1," $70,971.00 "," $1,001.00 ",UnderGrad,Married
+425,2," $34,487.00 ", $19.00 ,PhD,Divorced
+426,1," $28,769.00 ", $41.00 ,UnderGrad,
+427,1," $69,084.00 "," $1,181.00 ",PhD,
+428,3," $46,102.00 ", $14.00 ,UnderGrad,Divorced
+429,1," $56,181.00 ", $121.00 ,UnderGrad,
+430,1," $63,120.00 ", $965.00 ,Masters,Divorced
+431,1," $73,691.00 ", $707.00 ,UnderGrad,
+432,1," $62,859.00 "," $1,063.00 ",PhD,Divorced
+433,1," $45,906.00 ", $305.00 ,UnderGrad,
+434,2," $46,463.00 ", $163.00 ,PhD,
+435,1," $55,282.00 ", $125.00 ,Masters,Divorced
+436,1," $78,710.00 ", $721.00 ,Masters,
+437,1," $66,886.00 ", $315.00 ,UnderGrad,Married
+438,1," $29,103.00 ", $16.00 ,UnderGrad,Married
+439,1," $67,445.00 ", $757.00 ,UnderGrad,
+440,1," $50,616.00 ", $30.00 ,PhD,Married
+441,1," $49,431.00 ", $219.00 ,UnderGrad,Divorced
+442,1," $61,278.00 ", $111.00 ,UnderGrad,Married
+443,1," $73,059.00 ", $410.00 ,PhD,Married
+444,3," $46,734.00 ", $100.00 ,PhD,
+445,1," $56,253.00 ", $509.00 ,UnderGrad,Married
+446,1," $58,330.00 ", $445.00 ,UnderGrad,Widowed
+447,1," $45,068.00 ", $14.00 ,PhD,Married
+448,1," $21,063.00 ", $1.00 ,Basic,
+449,1," $29,187.00 ", $26.00 ,PhD,
+450,2," $54,690.00 ", $111.00 ,Masters,
+451,1," $59,304.00 ", $418.00 ,PhD,
+452,2," $59,247.00 ", $327.00 ,Masters,
+453,1," $66,731.00 ", $371.00 ,UnderGrad,Widowed
+454,1," $77,353.00 ", $275.00 ,UnderGrad,
+455,2," $26,751.00 ", $1.00 ,UnderGrad,
+456,1," $81,300.00 "," $1,004.00 ",PhD,
+457,1," $36,145.00 ", $56.00 ,Masters,
+458,1," $68,118.00 ", $595.00 ,UnderGrad,Divorced
+459,1," $38,946.00 ", $116.00 ,UnderGrad,Married
+460,1," $66,476.00 ", $372.00 ,PhD,Divorced
+461,1," $50,611.00 ", $459.00 ,PhD,Divorced
+462,1," $42,315.00 ", $67.00 ,Masters,Married
+463,2," $47,570.00 ", $67.00 ,Masters,Widowed
+464,2," $61,923.00 ", $92.00 ,Masters,
+465,2," $26,518.00 ", $20.00 ,PhD,
+466,1," $78,901.00 ", $321.00 ,UnderGrad,Divorced
+467,2," $71,427.00 ", $212.00 ,UnderGrad,
+468,1," $71,022.00 ", $909.00 ,UnderGrad,Divorced
+469,1," $41,335.00 ", $112.00 ,Masters,Divorced
+470,1," $35,682.00 ", $23.00 ,PhD,Divorced
+471,1," $43,185.00 ", $537.00 ,UnderGrad,Divorced
+472,1," $66,375.00 ", $712.00 ,PhD,Married
+473,1," $25,252.00 ", $1.00 ,UnderGrad,
+474,1," $55,250.00 ", $664.00 ,Masters,
+475,1," $33,249.00 ", $6.00 ,UnderGrad,
+476,1," $50,272.00 ", $99.00 ,UnderGrad,Married
+477,1," $25,851.00 ", $9.00 ,UnderGrad,Married
+478,1," $58,710.00 ", $440.00 ,UnderGrad,Divorced
+479,2," $45,160.00 ", $8.00 ,UnderGrad,
+480,1," $74,806.00 ", $670.00 ,Masters,
+481,1," $18,988.00 ", $6.00 ,PhD,
+482,1," $7,500.00 ", $7.00 ,UnderGrad,
+483,3," $56,962.00 ", $292.00 ,Masters,
+484,2," $35,946.00 ", $8.00 ,PhD,Divorced
+485,2," $53,593.00 ", $349.00 ,PhD,Married
+486,3," $45,072.00 ", $144.00 ,PhD,Divorced
+487,2," $89,694.00 "," $1,126.00 ",UnderGrad,Divorced
+488,1," $67,432.00 ", $432.00 ,UnderGrad,
+489,1," $70,545.00 ", $138.00 ,Masters,Married
+490,1," $17,487.00 ", $-   ,Basic,
+491,1," $62,882.00 ", $509.00 ,UnderGrad,Married
+492,1," $64,108.00 ", $948.00 ,PhD,
+493,2," $34,941.00 ", $39.00 ,Masters,Married
+494,3," $48,767.00 ", $28.00 ,PhD,
+495,1," $38,702.00 ", $13.00 ,Masters,Married
+496,1," $17,003.00 ", $2.00 ,Masters,
+497,1," $33,697.00 ", $4.00 ,UnderGrad,
+498,1," $51,518.00 ", $350.00 ,PhD,Married
+499,1," $62,220.00 ", $799.00 ,PhD,Married
+500,1," $58,512.00 ", $895.00 ,UnderGrad,
+501,1," $40,662.00 ", $40.00 ,Masters,
+502,1," $38,829.00 ", $76.00 ,PhD,
+503,1," $35,523.00 ", $11.00 ,Masters,
+504,2," $79,146.00 ", $245.00 ,UnderGrad,
+505,1," $31,626.00 ", $39.00 ,PhD,
+506,1," $48,726.00 ", $138.00 ,UnderGrad,
+507,1," $46,891.00 ", $43.00 ,Masters,
+508,1," $62,058.00 ", $301.00 ,Masters,
+509,1," $72,063.00 ", $180.00 ,UnderGrad,
+510,2," $42,720.00 ", $392.00 ,UnderGrad,
+511,2," $33,622.00 ", $39.00 ,UnderGrad,
+512,1," $6,835.00 ", $107.00 ,PhD,Married
+513,2," $41,452.00 ", $13.00 ,UnderGrad,Married
+514,1," $40,760.00 ", $70.00 ,PhD,
+515,2," $51,124.00 ", $26.00 ,Masters,
+516,1," $72,258.00 ", $522.00 ,UnderGrad,
+517,2," $36,283.00 ", $6.00 ,UnderGrad,Married
+518,1," $20,587.00 ", $2.00 ,UnderGrad,
+519,1," $30,467.00 ", $1.00 ,UnderGrad,
+520,1," $31,590.00 ", $6.00 ,UnderGrad,Married
+521,1," $20,425.00 ", $4.00 ,Basic,
+522,2," $17,144.00 ", $18.00 ,Masters,Married
+523,1," $42,564.00 ", $324.00 ,PhD,Divorced
+524,1," $43,783.00 ", $327.00 ,Masters,
+525,1," $40,780.00 ", $229.00 ,UnderGrad,Divorced
+526,2," $51,267.00 ", $183.00 ,UnderGrad,
+527,1," $46,524.00 ", $31.00 ,UnderGrad,
+528,1," $70,421.00 ", $479.00 ,PhD,
+529,1," $60,161.00 ", $584.00 ,Masters,Divorced
+530,1," $19,329.00 ", $24.00 ,UnderGrad,
+531,1," $61,872.00 ", $330.00 ,Masters,
+532,2," $46,984.00 ", $19.00 ,UnderGrad,Widowed
+533,2," $34,838.00 ", $28.00 ,UnderGrad,
+534,2," $49,681.00 ", $411.00 ,Masters,
+535,1," $56,850.00 ", $34.00 ,Masters,
+536,1," $55,267.00 ", $161.00 ,UnderGrad,
+537,2," $59,666.00 ", $623.00 ,UnderGrad,
+538,1," $72,504.00 ", $604.00 ,UnderGrad,
+539,1," $21,359.00 ", $12.00 ,UnderGrad,
+540,1," $52,750.00 ", $393.00 ,Masters,
+541,1," $65,968.00 ", $376.00 ,PhD,Married
+542,2," $30,772.00 ", $7.00 ,UnderGrad,
+543,1," $65,685.00 ", $642.00 ,UnderGrad,
+544,1," $25,804.00 ", $8.00 ,Masters,
+545,1," $22,063.00 ", $7.00 ,UnderGrad,
+546,1," $78,353.00 ", $752.00 ,Masters,Divorced
+547,3," $93,404.00 "," $1,279.00 ",UnderGrad,
+548,3," $37,859.00 ", $22.00 ,UnderGrad,Divorced
+549,1," $80,995.00 ", $860.00 ,PhD,Widowed
+550,1," $16,529.00 ", $3.00 ,UnderGrad,Married
+551,2," $55,412.00 ", $10.00 ,PhD,Divorced
+552,2," $56,575.00 ", $421.00 ,PhD,Married
+553,1," $25,130.00 ", $2.00 ,Masters,Married
+554,2," $35,441.00 ", $25.00 ,UnderGrad,
+555,1," $71,391.00 ", $336.00 ,UnderGrad,
+556,1," $49,494.00 ", $191.00 ,Masters,
+557,1," $45,889.00 ", $31.00 ,Masters,
+558,1," $56,628.00 ", $479.00 ,UnderGrad,
+559,2," $34,026.00 ", $18.00 ,UnderGrad,Married
+560,1," $40,049.00 ", $91.00 ,UnderGrad,
+561,1," $19,419.00 ", $2.00 ,UnderGrad,
+562,1," $55,284.00 ", $547.00 ,Masters,
+563,1," $49,980.00 ", $104.00 ,UnderGrad,
+564,2," $15,072.00 ", $8.00 ,UnderGrad,
+565,1," $49,166.00 ", $224.00 ,UnderGrad,
+566,2," $30,843.00 ", $24.00 ,PhD,Married
+567,1," $46,374.00 ", $408.00 ,PhD,
+568,1," $60,474.00 ", $265.00 ,UnderGrad,
+569,1," $38,576.00 ", $34.00 ,Masters,
+570,2," $55,357.00 ", $374.00 ,UnderGrad,
+571,2," $37,758.00 ", $27.00 ,UnderGrad,Married
+572,1," $23,228.00 ", $13.00 ,UnderGrad,Married
+573,2," $44,602.00 ", $167.00 ,Masters,Married
+574,1," $38,683.00 ", $46.00 ,Masters,Married
+575,1," $49,514.00 ", $88.00 ,Masters,
+576,1," $57,906.00 ", $243.00 ,PhD,Married
+577,1," $43,456.00 ", $275.00 ,Masters,
+578,2," $19,485.00 ", $6.00 ,Masters,
+579,1," $53,172.00 ", $121.00 ,UnderGrad,Married
+580,1," $30,545.00 ", $4.00 ,UnderGrad,Married
+581,1," $62,450.00 ", $515.00 ,UnderGrad,
+582,1," $21,675.00 ", $4.00 ,UnderGrad,Married
+583,2," $42,395.00 ", $48.00 ,Masters,
+584,1," $61,346.00 ", $562.00 ,Masters,Married
+585,2," $42,835.00 ", $379.00 ,Masters,Divorced
+586,1," $39,922.00 ", $29.00 ,UnderGrad,
+587,1," $17,117.00 ", $12.00 ,Masters,Married
+588,1," $24,762.00 ", $6.00 ,UnderGrad,
+589,1," $35,797.00 ", $27.00 ,UnderGrad,
+590,2," $36,627.00 ", $9.00 ,UnderGrad,Divorced
+591,2," $51,111.00 ", $22.00 ,Masters,
+592,3," $46,231.00 ", $189.00 ,PhD,
+593,2," $42,243.00 ", $48.00 ,UnderGrad,
+594,2," $51,195.00 ", $230.00 ,UnderGrad,Married
+595,1," $31,814.00 ", $35.00 ,UnderGrad,
+596,2," $51,390.00 ", $205.00 ,Masters,Widowed
+597,1," $26,868.00 ", $-   ,Basic,
+598,1," $55,260.00 ", $825.00 ,PhD,
+599,1," $64,090.00 ", $316.00 ,UnderGrad,Married
+600,1," $78,331.00 ", $756.00 ,UnderGrad,Divorced
+601,1," $37,087.00 ", $194.00 ,PhD,
+602,1," $21,846.00 ", $7.00 ,UnderGrad,Divorced
+603,1," $54,137.00 ", $171.00 ,UnderGrad,Divorced
+604,3," $58,917.00 ", $151.00 ,UnderGrad,Married
+605,1," $45,684.00 ", $5.00 ,UnderGrad,Widowed
+606,1," $47,889.00 ", $29.00 ,UnderGrad,Married
+607,1," $52,278.00 ", $953.00 ,PhD,Widowed
+608,1," $35,641.00 ", $63.00 ,Masters,
+609,1," $42,607.00 ", $156.00 ,Masters,
+610,2," $46,015.00 ", $38.00 ,PhD,Married
+611,1," $39,858.00 ", $15.00 ,Masters,
+612,2," $34,469.00 ", $19.00 ,PhD,
+613,1," $83,033.00 ", $812.00 ,UnderGrad,Married
+614,1," $68,397.00 ", $760.00 ,PhD,
+615,1," $46,107.00 ", $31.00 ,UnderGrad,
+616,1," $64,950.00 ", $819.00 ,PhD,
+617,1," $25,443.00 ", $1.00 ,Basic,
+618,1," $32,892.00 ", $26.00 ,PhD,Married
+619,1," $67,536.00 "," $1,253.00 ",PhD,
+620,1," $55,239.00 ", $371.00 ,UnderGrad,
+621,1," $60,554.00 ", $588.00 ,PhD,Divorced
+622,2," $64,831.00 ", $480.00 ,Masters,
+623,1," $56,067.00 ", $517.00 ,PhD,Married
+624,1," $57,937.00 ", $261.00 ,Masters,
+625,2," $68,274.00 ", $135.00 ,UnderGrad,Divorced
+626,1," $39,771.00 ", $6.00 ,UnderGrad,Married
+627,1," $67,893.00 ", $711.00 ,Masters,Divorced
+628,1," $27,922.00 ", $11.00 ,PhD,Married
+629,2," $52,190.00 ", $42.00 ,PhD,Married
+630,2," $44,051.00 ", $79.00 ,Masters,Divorced
+631,2," $42,767.00 ", $20.00 ,PhD,
+632,2," $46,106.00 ", $30.00 ,Masters,Married
+633,2," $16,927.00 ", $20.00 ,PhD,
+634,1," $59,754.00 ", $115.00 ,UnderGrad,
+635,1," $53,700.00 ", $263.00 ,UnderGrad,
+636,2," $59,041.00 ", $69.00 ,UnderGrad,
+637,1," $54,237.00 ", $267.00 ,PhD,Divorced
+638,1," $70,647.00 ", $561.00 ,UnderGrad,Divorced
+639,1," $52,597.00 ", $492.00 ,PhD,
+640,1," $41,021.00 ", $14.00 ,Masters,Married
+641,1," $40,233.00 ", $80.00 ,PhD,
+642,2," $50,183.00 ", $97.00 ,UnderGrad,
+643,1," $54,753.00 ", $197.00 ,UnderGrad,Married
+644,1," $33,471.00 ", $43.00 ,UnderGrad,
+645,1," $34,596.00 ", $14.00 ,PhD,
+646,1," $44,010.00 ", $186.00 ,UnderGrad,Married
+647,3," $40,706.00 ", $59.00 ,PhD,Married
+648,1," $15,716.00 ", $16.00 ,Masters,
+649,1," $59,052.00 ", $230.00 ,Masters,Divorced
+650,2," $35,704.00 ", $30.00 ,UnderGrad,
+651,1," $53,103.00 ", $729.00 ,UnderGrad,Married
+652,2," $46,779.00 ", $12.00 ,Masters,Widowed
+653,1," $33,462.00 ", $22.00 ,Masters,Divorced
+654,1," $65,352.00 ", $284.00 ,PhD,
+655,2," $35,340.00 ", $27.00 ,PhD,Widowed
+656,1," $24,884.00 ", $3.00 ,Masters,
+657,1," $42,021.00 ", $393.00 ,Masters,Married
+658,1," $64,449.00 ", $218.00 ,UnderGrad,
+659,2," $64,587.00 ", $66.00 ,UnderGrad,Divorced
+660,1," $52,845.00 ", $384.00 ,UnderGrad,
+661,1," $46,086.00 ", $244.00 ,UnderGrad,Divorced
+662,1," $78,028.00 ", $158.00 ,PhD,Widowed
+663,2," $56,337.00 ", $349.00 ,Masters,
+664,1," $22,434.00 ", $4.00 ,UnderGrad,Married
+665,1," $36,930.00 ", $223.00 ,PhD,
+666,1," $36,130.00 ", $157.00 ,UnderGrad,
+667,1," $65,569.00 ", $397.00 ,Masters,
+668,2," $19,514.00 ", $14.00 ,UnderGrad,
+669,2," $36,736.00 ", $10.00 ,PhD,
+670,1," $77,568.00 "," $1,230.00 ",UnderGrad,Married
+671,1," $49,187.00 ", $81.00 ,PhD,Married
+672,1," $30,168.00 ", $154.00 ,UnderGrad,
+673,1," $34,053.00 ", $63.00 ,Masters,Married
+674,2," $38,196.00 ", $30.00 ,Masters,
+675,1," $32,300.00 ", $13.00 ,UnderGrad,
+676,1," $34,961.00 ", $45.00 ,UnderGrad,
+677,1," $28,440.00 ", $38.00 ,PhD,Married
+678,3," $64,504.00 ", $986.00 ,PhD,Married
+679,1," $33,564.00 ", $61.00 ,Masters,Married
+680,1," $17,345.00 ", $4.00 ,UnderGrad,
+681,1," $56,320.00 ", $201.00 ,PhD,
+682,1," $28,647.00 ", $19.00 ,UnderGrad,
+683,1," $15,038.00 ", $4.00 ,Basic,
+684,1," $32,173.00 ", $18.00 ,PhD,Divorced
+685,1," $68,316.00 ", $806.00 ,Masters,Married
+686,1," $31,056.00 ", $5.00 ,Masters,
+687,2," $37,334.00 ", $26.00 ,PhD,Married
+688,2," $46,423.00 ", $68.00 ,Masters,
+689,1," $37,126.00 ", $45.00 ,PhD,
+690,1," $47,703.00 ", $359.00 ,UnderGrad,
+691,1," $61,180.00 ", $403.00 ,UnderGrad,
+692,2," $38,998.00 ", $34.00 ,UnderGrad,
+693,1," $34,728.00 ", $14.00 ,UnderGrad,Married
+694,1," $33,168.00 ", $80.00 ,Masters,
+695,1," $33,585.00 ", $30.00 ,Masters,
+696,1," $77,037.00 ", $463.00 ,PhD,
+697,1," $35,196.00 ", $75.00 ,UnderGrad,Married
+698,1," $44,529.00 ", $538.00 ,UnderGrad,
+699,2," $28,764.00 ", $8.00 ,PhD,Married
+700,2," $25,959.00 ", $4.00 ,Masters,Divorced
+701,1," $27,100.00 ", $12.00 ,Masters,
+702,1," $42,557.00 ", $192.00 ,UnderGrad,
+703,2," $62,845.00 "," $1,099.00 ",Masters,
+704,2," $65,196.00 ", $743.00 ,UnderGrad,Married
+705,2," $35,860.00 ", $15.00 ,PhD,Divorced
+706,1," $65,526.00 ", $397.00 ,PhD,
+707,2," $16,860.00 ", $10.00 ,UnderGrad,
+708,1," $64,176.00 "," $1,215.00 ",Masters,Divorced
+709,1," $70,713.00 ", $736.00 ,UnderGrad,Married
+710,1," $59,925.00 ", $473.00 ,UnderGrad,Married
+711,1," $39,722.00 ", $32.00 ,UnderGrad,
+712,2," $26,907.00 ", $9.00 ,Masters,Married
+713,1," $50,014.00 ", $234.00 ,Masters,
+714,1," $41,014.00 ", $7.00 ,PhD,
+715,1," $36,715.00 ", $172.00 ,UnderGrad,
+716,1," $40,479.00 ", $5.00 ,UnderGrad,Married
+717,1," $54,233.00 ", $652.00 ,UnderGrad,
+718,2," $24,163.00 ", $4.00 ,UnderGrad,
+719,1," $43,776.00 ", $8.00 ,UnderGrad,Married
+720,1," $39,190.00 ", $68.00 ,PhD,
+721,2," $38,578.00 ", $38.00 ,PhD,
+722,2," $57,236.00 ", $105.00 ,PhD,
+723,1," $61,825.00 ", $162.00 ,UnderGrad,
+724,1," $79,803.00 ", $574.00 ,UnderGrad,Divorced
+725,1," $27,590.00 ", $6.00 ,Masters,Married
+726,1," $56,775.00 ", $614.00 ,UnderGrad,
+727,1," $54,210.00 ", $70.00 ,Masters,
+728,1," $38,508.00 ", $120.00 ,UnderGrad,
+729,1," $53,187.00 ", $211.00 ,UnderGrad,Married
+730,1," $30,023.00 ", $11.00 ,UnderGrad,
+731,1," $50,870.00 ", $53.00 ,PhD,
+732,1," $65,463.00 ", $391.00 ,Masters,
+733,2," $66,480.00 ", $199.00 ,UnderGrad,
+734,2," $54,466.00 ", $12.00 ,PhD,
+735,1," $16,269.00 ", $19.00 ,PhD,
+736,1," $71,819.00 "," $1,224.00 ",UnderGrad,Married
+737,1," $33,569.00 ", $16.00 ,PhD,
+738,1," $47,025.00 ", $508.00 ,Masters,
+739,1," $70,566.00 ", $381.00 ,UnderGrad,
+740,1," $31,605.00 ", $74.00 ,PhD,
+741,2," $52,034.00 ", $146.00 ,Masters,Divorced
+742,1," $48,526.00 ", $23.00 ,UnderGrad,
+743,1," $46,734.00 ", $110.00 ,UnderGrad,
+744,2," $39,552.00 ", $165.00 ,UnderGrad,Divorced
+745,2," $86,358.00 ", $957.00 ,UnderGrad,
+746,3," $46,931.00 ", $41.00 ,UnderGrad,Married
+747,1," $67,381.00 ", $815.00 ,Masters,
+748,2," $25,930.00 ", $6.00 ,UnderGrad,
+749,1," $42,693.00 ", $8.00 ,UnderGrad,
+750,1," $85,606.00 ", $717.00 ,UnderGrad,Married
+751,1," $49,669.00 ", $166.00 ,Masters,Married
+752,2," $36,778.00 ", $29.00 ,PhD,
+753,1," $49,678.00 ", $229.00 ,UnderGrad,
+754,1," $37,155.00 ", $23.00 ,UnderGrad,
+755,1," $21,282.00 ", $1.00 ,Masters,Divorced
+756,1," $33,419.00 ", $56.00 ,PhD,
+757,1," $21,255.00 ", $29.00 ,Masters,Married
+758,1," $42,162.00 ", $46.00 ,UnderGrad,Married
+759,2," $54,450.00 ", $454.00 ,UnderGrad,Married
+760,1," $57,744.00 ", $350.00 ,PhD,
+761,1," $26,576.00 ", $10.00 ,UnderGrad,
+762,1," $68,142.00 ", $897.00 ,UnderGrad,Married
+763,1," $7,500.00 ", $5.00 ,UnderGrad,
+764,1," $54,197.00 ", $162.00 ,Masters,
+765,2," $23,091.00 ", $35.00 ,PhD,
+766,2," $46,049.00 ", $342.00 ,UnderGrad,
+767,1," $57,304.00 ", $356.00 ,UnderGrad,
+768,1," $44,375.00 ", $213.00 ,UnderGrad,
+769,1," $59,594.00 ", $457.00 ,UnderGrad,
+770,1," $40,344.00 ", $210.00 ,PhD,
+771,1," $62,710.00 ", $441.00 ,UnderGrad,
+772,1," $48,985.00 ", $19.00 ,Masters,
+773,3," $35,322.00 ", $28.00 ,UnderGrad,Married
+774,2," $66,726.00 ", $349.00 ,Masters,
+775,1," $23,724.00 ", $5.00 ,Basic,Married
+776,1," $47,353.00 ", $184.00 ,Masters,
+777,2," $33,444.00 ", $8.00 ,Masters,
+778,1," $54,386.00 ", $277.00 ,UnderGrad,
+779,2," $28,510.00 ", $44.00 ,UnderGrad,Divorced
+780,1," $48,070.00 ", $373.00 ,UnderGrad,Married
+781,1," $43,140.00 ", $134.00 ,UnderGrad,
+782,1," $54,959.00 "," $1,148.00 ",PhD,Divorced
+783,2," $15,056.00 ", $6.00 ,Basic,
+784,1," $26,954.00 ", $4.00 ,UnderGrad,
+785,1," $22,327.00 ", $5.00 ,UnderGrad,
+786,2," $44,393.00 ", $24.00 ,UnderGrad,
+787,1," $62,000.00 ", $899.00 ,PhD,
+788,1," $31,497.00 ", $108.00 ,PhD,Married
+789,2," $45,894.00 ", $27.00 ,Masters,
+790,1," $67,369.00 "," $1,298.00 ",Masters,Widowed
+791,1," $58,401.00 ", $10.00 ,UnderGrad,Divorced
+792,1," $62,307.00 ", $87.00 ,UnderGrad,
+793,2," $43,641.00 ", $57.00 ,Masters,
+794,1," $70,091.00 ", $964.00 ,Masters,
+795,1," $59,184.00 ", $341.00 ,Masters,Widowed
+796,2," $54,809.00 ", $63.00 ,UnderGrad,
+797,1," $58,113.00 ", $221.00 ,UnderGrad,
+798,1," $51,412.00 ", $140.00 ,Masters,
+799,1," $50,965.00 ", $544.00 ,Masters,
+800,2," $40,451.00 ", $35.00 ,PhD,Married
+801,1," $36,317.00 ", $87.00 ,UnderGrad,Married
+802,1," $42,213.00 ", $309.00 ,UnderGrad,Married
+803,1," $65,748.00 ", $172.00 ,UnderGrad,Married
+804,1," $77,044.00 ", $625.00 ,UnderGrad,Married
+805,2," $56,721.00 ", $157.00 ,UnderGrad,
+806,2," $42,160.00 ", $48.00 ,UnderGrad,
+807,1," $61,559.00 ", $279.00 ,UnderGrad,
+808,2," $33,629.00 ", $132.00 ,PhD,Married
+809,1," $34,377.00 ", $62.00 ,UnderGrad,
+810,1," $8,940.00 ", $1.00 ,Basic,
+811,1," $26,228.00 ", $2.00 ,UnderGrad,
+812,2," $40,211.00 ", $51.00 ,UnderGrad,
+813,2," $33,438.00 ", $62.00 ,PhD,Widowed
+814,1," $75,032.00 ", $952.00 ,PhD,
+815,1," $22,518.00 ", $11.00 ,UnderGrad,
+816,1," $54,730.00 ", $318.00 ,Masters,
+817,2," $38,452.00 ", $56.00 ,Masters,
+818,2," $44,421.00 ", $110.00 ,UnderGrad,Divorced
+819,1," $38,197.00 ", $23.00 ,PhD,Married
+820,1," $41,986.00 ", $27.00 ,UnderGrad,Divorced
+821,1," $28,427.00 ", $18.00 ,UnderGrad,Married
+822,1," $37,395.00 ", $18.00 ,PhD,Married
+823,1," $64,722.00 ", $303.00 ,UnderGrad,
+824,1," $55,249.00 ", $97.00 ,Masters,Married
+825,2," $44,213.00 ", $95.00 ,UnderGrad,
+826,1," $25,707.00 ", $1.00 ,Basic,
+827,3," $59,062.00 ", $46.00 ,PhD,
+828,1," $76,624.00 ", $411.00 ,UnderGrad,
+829,1," $27,683.00 ", $152.00 ,PhD,Married
+830,1," $7,500.00 ", $10.00 ,Basic,
+831,2," $40,521.00 ", $12.00 ,UnderGrad,Married
+832,1," $20,427.00 ", $5.00 ,PhD,Married
+833,1," $65,106.00 ", $790.00 ,UnderGrad,
+834,2," $67,433.00 ", $615.00 ,UnderGrad,
+835,1," $77,766.00 "," $1,004.00 ",PhD,
+836,1," $74,716.00 ", $133.00 ,UnderGrad,
+837,2," $55,158.00 ", $293.00 ,PhD,
+838,1," $62,972.00 ", $313.00 ,Masters,
+839,1," $74,190.00 ", $151.00 ,UnderGrad,
+840,2," $39,356.00 ", $15.00 ,UnderGrad,
+841,2," $31,454.00 ", $28.00 ,UnderGrad,
+842,2," $47,139.00 ", $46.00 ,UnderGrad,
+843,2," $53,378.00 ", $489.00 ,PhD,
+844,1," $19,656.00 ", $25.00 ,UnderGrad,Married
+845,1," $45,579.00 ", $145.00 ,PhD,
+846,1," $64,191.00 ", $420.00 ,Masters,
+847,1," $38,808.00 ", $125.00 ,UnderGrad,
+848,2," $57,183.00 ", $464.00 ,Masters,
+849,1," $23,748.00 ", $6.00 ,Masters,Divorced
+850,1," $66,303.00 "," $1,090.00 ",UnderGrad,
+851,1," $37,368.00 ", $3.00 ,Masters,
+852,3," $40,800.00 ", $24.00 ,UnderGrad,
+853,1," $46,149.00 ", $254.00 ,UnderGrad,
+854,2," $37,633.00 ", $13.00 ,PhD,
+855,1," $33,986.00 ", $16.00 ,UnderGrad,Divorced
+856,1," $57,091.00 ", $462.00 ,PhD,
+857,2," $46,831.00 ", $22.00 ,Masters,
+858,1," $43,050.00 ", $30.00 ,Masters,
+859,2," $42,997.00 ", $4.00 ,PhD,
+860,2," $48,918.00 ", $52.00 ,PhD,
+861,1," $60,033.00 ", $62.00 ,Masters,Married
+862,1," $34,043.00 ", $20.00 ,PhD,Married
+863,1," $57,811.00 ", $545.00 ,UnderGrad,Married
+864,2," $7,500.00 ", $6.00 ,UnderGrad,
+865,2," $44,267.00 ", $183.00 ,UnderGrad,Divorced
+866,1," $60,894.00 ", $606.00 ,UnderGrad,Married
+867,2," $50,200.00 ", $266.00 ,UnderGrad,Married
+868,1," $59,868.00 ", $771.00 ,UnderGrad,Married
+869,1," $65,695.00 ", $371.00 ,PhD,
+870,1," $45,143.00 ", $202.00 ,Masters,Married
+871,1," $74,805.00 ", $209.00 ,Masters,Married
+872,1," $59,060.00 ", $35.00 ,Masters,
+873,2," $27,238.00 ", $37.00 ,PhD,
+874,1," $47,009.00 ", $171.00 ,UnderGrad,Married
+875,2," $46,094.00 ", $12.00 ,Masters,
+876,1," $37,235.00 ", $20.00 ,UnderGrad,Married
+877,1," $46,692.00 ", $170.00 ,Masters,Married
+878,1," $77,382.00 ", $491.00 ,UnderGrad,Married
+879,2," $37,774.00 ", $173.00 ,UnderGrad,
+880,1," $18,393.00 ", $7.00 ,Basic,
+881,1," $72,828.00 "," $1,205.00 ",Masters,
+882,1," $45,503.00 ", $97.00 ,PhD,
+883,1," $27,244.00 ", $6.00 ,UnderGrad,
+884,2," $48,752.00 ", $73.00 ,UnderGrad,
+885,1," $71,434.00 ", $711.00 ,UnderGrad,
+886,1," $88,097.00 ", $163.00 ,Masters,
+887,1," $51,948.00 ", $82.00 ,UnderGrad,
+888,1," $40,049.00 ", $13.00 ,UnderGrad,Widowed
+889,1," $39,660.00 ", $139.00 ,UnderGrad,
+890,1," $50,127.00 ", $274.00 ,UnderGrad,Married
+891,1," $43,263.00 ", $262.00 ,Masters,
+892,2," $62,845.00 "," $1,099.00 ",Masters,
+893,1," $24,367.00 ", $2.00 ,Basic,
+894,1," $26,887.00 ", $6.00 ,Masters,
+895,1," $62,061.00 ", $641.00 ,UnderGrad,Married
+896,1," $18,227.00 ", $1.00 ,UnderGrad,Married
+897,1," $69,139.00 ", $86.00 ,UnderGrad,
+898,1," $69,627.00 ", $231.00 ,UnderGrad,
+899,1," $38,136.00 ", $8.00 ,UnderGrad,
+900,2," $33,316.00 ", $79.00 ,Masters,
+901,2," $58,554.00 ", $368.00 ,UnderGrad,Married
+902,1," $17,256.00 ", $6.00 ,Basic,
+903,2," $53,034.00 ", $160.00 ,UnderGrad,Divorced
+904,1," $59,601.00 ", $691.00 ,Masters,Divorced
+905,1," $75,154.00 ", $543.00 ,Masters,
+906,1," $47,025.00 ", $254.00 ,UnderGrad,
+907,1," $37,971.00 ", $5.00 ,UnderGrad,
+908,1," $67,267.00 ", $134.00 ,UnderGrad,
+909,1," $57,338.00 ", $143.00 ,UnderGrad,
+910,2," $50,523.00 ", $51.00 ,Masters,Married
+911,1," $50,611.00 ", $459.00 ,PhD,Divorced
+912,1," $56,242.00 ", $689.00 ,PhD,
+913,1," $48,904.00 ", $283.00 ,UnderGrad,
+914,3," $56,243.00 ", $347.00 ,UnderGrad,
+915,1," $21,355.00 ", $5.00 ,UnderGrad,
+916,1," $57,420.00 ", $280.00 ,Masters,Married
+917,1," $46,390.00 ", $95.00 ,Masters,Divorced
+918,2," $54,342.00 ", $84.00 ,Masters,Married
+919,1," $20,895.00 ", $18.00 ,UnderGrad,
+920,2," $44,964.00 ", $19.00 ,UnderGrad,Married
+921,2," $53,761.00 ", $158.00 ,Masters,
+922,1," $22,682.00 ", $10.00 ,UnderGrad,Married
+923,1," $38,887.00 ", $25.00 ,PhD,Married
+924,2," $41,658.00 ", $8.00 ,Masters,
+925,1," $29,791.00 ", $14.00 ,PhD,
+926,2," $63,915.00 ", $622.00 ,Masters,
+927,2," $39,996.00 ", $11.00 ,UnderGrad,Divorced
+928,1," $26,759.00 ", $25.00 ,UnderGrad,Divorced
+929,2," $51,039.00 ", $100.00 ,PhD,
+930,2," $60,544.00 ", $201.00 ,UnderGrad,
+931,1," $37,716.00 ", $97.00 ,UnderGrad,
+932,1," $36,864.00 ", $204.00 ,UnderGrad,
+933,1," $44,511.00 ", $513.00 ,Masters,
+934,2," $36,947.00 ", $88.00 ,PhD,
+935,1," $67,087.00 ", $329.00 ,Masters,
+936,1," $57,045.00 ", $296.00 ,UnderGrad,
+937,2," $36,957.00 ", $100.00 ,PhD,Divorced
+938,1," $69,389.00 ", $422.00 ,PhD,
+939,2," $43,142.00 ", $5.00 ,Masters,
+940,1," $34,412.00 ", $52.00 ,UnderGrad,
+941,1," $57,537.00 ", $191.00 ,UnderGrad,
+942,3," $36,026.00 ", $20.00 ,UnderGrad,
+943,2," $24,639.00 ", $20.00 ,UnderGrad,
+944,3," $34,578.00 ", $7.00 ,PhD,Married
+945,1," $54,132.00 ", $30.00 ,PhD,Married
+946,1," $28,164.00 ", $3.00 ,UnderGrad,
+947,1," $34,596.00 ", $14.00 ,PhD,
+948,1," $43,269.00 ", $10.00 ,PhD,
+949,2," $38,741.00 ", $7.00 ,Masters,
+950,1," $31,163.00 ", $2.00 ,Masters,Divorced
+951,2," $34,853.00 ", $9.00 ,UnderGrad,
+952,2," $70,844.00 ", $129.00 ,UnderGrad,Divorced
+953,2," $31,086.00 ", $16.00 ,Masters,
+954,2," $33,402.00 ", $26.00 ,UnderGrad,Married
+955,2," $36,408.00 ", $9.00 ,Masters,
+956,1," $21,645.00 ", $14.00 ,UnderGrad,Married
+957,1," $52,852.00 ", $714.00 ,UnderGrad,
+958,1," $69,401.00 ", $399.00 ,Masters,Married
+959,1," $46,053.00 ", $56.00 ,UnderGrad,Married
+960,1," $40,304.00 ", $37.00 ,PhD,
+961,1," $43,300.00 ", $91.00 ,UnderGrad,Divorced
+962,2," $26,290.00 ", $15.00 ,UnderGrad,Married
+963,1," $64,866.00 ", $508.00 ,Masters,Widowed
+964,1," $57,957.00 ", $290.00 ,UnderGrad,Married
+965,1," $16,531.00 ", $2.00 ,UnderGrad,Married
+966,1," $28,072.00 ", $30.00 ,Masters,
+967,1," $49,476.00 ", $386.00 ,Masters,Divorced
+968,1," $50,725.00 ", $443.00 ,UnderGrad,
+969,2," $41,145.00 ", $9.00 ,PhD,
+970,1," $67,419.00 ", $846.00 ,UnderGrad,Married
+971,2," $23,162.00 ", $8.00 ,Masters,
+972,1," $34,380.00 ", $72.00 ,UnderGrad,
+973,1," $34,704.00 ", $29.00 ,UnderGrad,
+974,2," $94,871.00 ", $169.00 ,PhD,
+975,1," $65,148.00 ", $460.00 ,UnderGrad,
+976,1," $39,898.00 ", $69.00 ,UnderGrad,Married
+977,1," $59,892.00 ", $73.00 ,PhD,
+978,1," $57,072.00 ", $944.00 ,PhD,
+979,1," $19,414.00 ", $2.00 ,Masters,Married
+980,1," $19,107.00 ", $2.00 ,UnderGrad,
+981,1," $75,484.00 ", $378.00 ,Masters,Married
+982,1," $70,379.00 ", $553.00 ,Masters,
+983,3," $64,014.00 ", $406.00 ,PhD,Married
+984,1," $76,998.00 "," $1,449.00 ",UnderGrad,
+985,1," $49,854.00 ", $123.00 ,Masters,Married
+986,2," $60,585.00 ", $267.00 ,PhD,
+987,2," $42,873.00 ", $209.00 ,PhD,Divorced
+988,1," $57,867.00 ", $344.00 ,UnderGrad,Married
+989,1," $35,765.00 ", $22.00 ,UnderGrad,
+990,1," $32,952.00 ", $38.00 ,UnderGrad,Divorced
+991,1," $53,374.00 ", $896.00 ,PhD,Married
+992,1," $71,706.00 ", $931.00 ,UnderGrad,Married
+993,2," $53,253.00 ", $216.00 ,Masters,Married
+994,1," $42,014.00 ", $244.00 ,UnderGrad,
+995,2," $54,108.00 ", $539.00 ,Masters,
+996,2," $57,136.00 ", $306.00 ,Masters,
+997,1," $46,772.00 ", $350.00 ,Masters,Married
+998,1," $53,977.00 ", $620.00 ,UnderGrad,Married
+999,1," $73,538.00 ", $811.00 ,UnderGrad,
+1000,1," $51,766.00 ", $60.00 ,UnderGrad,
+1001,1," $55,759.00 ", $675.00 ,UnderGrad,
+1002,1," $37,787.00 ", $40.00 ,Masters,
+1003,1," $27,242.00 ", $3.00 ,UnderGrad,
+1004,1," $37,697.00 ", $34.00 ,UnderGrad,
+1005,1," $3,502.00 ", $2.00 ,UnderGrad,
+1006,2," $58,597.00 ", $490.00 ,UnderGrad,
+1007,2," $28,087.00 ", $53.00 ,UnderGrad,Married
+1008,1," $19,740.00 ", $7.00 ,UnderGrad,Married
+1009,1," $57,036.00 "," $1,171.00 ",Masters,
+1010,2," $53,083.00 ", $215.00 ,Masters,Married
+1011,1," $69,283.00 ", $674.00 ,PhD,
+1012,2," $46,098.00 ", $57.00 ,Masters,
+1013,1," $23,331.00 ", $5.00 ,Masters,
+1014,1," $23,331.00 ", $104.00 ,Masters,
+1015,1," $9,255.00 ", $9.00 ,UnderGrad,
+1016,1," $71,969.00 "," $1,000.00 ",PhD,
+1017,1," $59,235.00 ", $448.00 ,Masters,
+1018,1," $31,928.00 ", $33.00 ,UnderGrad,Married
+1019,2," $74,881.00 ", $505.00 ,Masters,Married
+1020,3," $51,411.00 ", $14.00 ,PhD,
+1021,1," $51,983.00 ", $631.00 ,UnderGrad,Divorced
+1022,1," $66,033.00 ", $293.00 ,UnderGrad,Widowed
+1023,2," $37,284.00 ", $11.00 ,Masters,
+1024,1," $57,530.00 ", $50.00 ,Masters,Divorced
+1025,1," $63,943.00 ", $423.00 ,UnderGrad,
+1026,2," $37,054.00 ", $12.00 ,Masters,
+1027,2," $47,175.00 ", $167.00 ,Masters,Married
+1028,1," $31,859.00 ", $3.00 ,UnderGrad,Divorced
+1029,3," $27,215.00 ", $30.00 ,UnderGrad,Divorced
+1030,1," $70,179.00 ", $532.00 ,PhD,Divorced
+1031,1," $24,645.00 ", $5.00 ,UnderGrad,
+1032,1," $79,865.00 ", $71.00 ,UnderGrad,Divorced
+1033,1," $44,322.00 ", $46.00 ,UnderGrad,
+1034,1," $47,958.00 ", $268.00 ,UnderGrad,
+1035,1," $63,972.00 ", $928.00 ,Masters,
+1036,1," $75,315.00 ", $459.00 ,UnderGrad,Married
+1037,2," $55,517.00 ", $483.00 ,PhD,
+1038,3," $75,283.00 ", $733.00 ,PhD,
+1039,1," $27,161.00 ", $7.00 ,Masters,
+1040,1," $38,201.00 ", $233.00 ,PhD,Married
+1041,2," $45,203.00 ", $35.00 ,UnderGrad,Married
+1042,1," $60,482.00 ", $255.00 ,Masters,
+1043,3," $34,633.00 ", $8.00 ,UnderGrad,Married
+1044,1," $45,903.00 ", $33.00 ,Masters,Married
+1045,2," $35,860.00 ", $15.00 ,PhD,Divorced
+1046,2," $40,442.00 ", $45.00 ,Masters,Married
+1047,1," $34,968.00 ", $158.00 ,UnderGrad,
+1048,1," $13,724.00 ", $2.00 ,Basic,Married
+1049,1," $52,569.00 ", $85.00 ,PhD,
+1050,1," $48,432.00 ", $322.00 ,PhD,
+1051,1," $36,108.00 ", $141.00 ,UnderGrad,
+1052,1," $76,445.00 ", $739.00 ,UnderGrad,
+1053,1," $36,663.00 ", $18.00 ,PhD,
+1054,1," $53,843.00 ", $378.00 ,Masters,
+1055,2," $44,512.00 ", $23.00 ,UnderGrad,Married
+1056,2," $27,116.00 ", $12.00 ,UnderGrad,
+1057,2," $54,072.00 ", $35.00 ,PhD,
+1058,1," $71,855.00 ", $548.00 ,UnderGrad,
+1059,1," $51,250.00 ", $342.00 ,Masters,
+1060,1," $60,432.00 ", $365.00 ,Masters,
+1061,1," $33,955.00 ", $100.00 ,UnderGrad,
+1062,2," $31,353.00 ", $10.00 ,UnderGrad,
+1063,1," $55,434.00 ", $238.00 ,UnderGrad,
+1064,1," $28,359.00 ", $6.00 ,UnderGrad,Married
+1065,1," $57,100.00 ", $158.00 ,UnderGrad,
+1066,1," $52,973.00 ", $856.00 ,Masters,
+1067,1," $51,717.00 ", $98.00 ,PhD,Married
+1068,1," $18,793.00 ", $4.00 ,UnderGrad,
+1069,2," $50,664.00 ", $313.00 ,UnderGrad,
+1070,2," $54,414.00 ", $109.00 ,UnderGrad,Married
+1071,1," $54,549.00 ", $216.00 ,PhD,
+1072,1," $47,111.00 ", $595.00 ,PhD,Widowed
+1073,1," $19,444.00 ", $16.00 ,UnderGrad,Married
+1074,1," $36,301.00 ", $11.00 ,Masters,Married
+1075,1," $42,731.00 ", $159.00 ,PhD,Married
+1076,2," $52,854.00 ", $105.00 ,PhD,
+1077,1," $22,775.00 ", $5.00 ,UnderGrad,Married
+1078,1," $59,821.00 ", $629.00 ,PhD,
+1079,1," $50,002.00 ", $443.00 ,UnderGrad,Divorced
+1080,2," $44,078.00 ", $24.00 ,UnderGrad,
+1081,1," $30,560.00 ", $9.00 ,Masters,Married
+1082,2," $35,924.00 ", $8.00 ,Masters,Married
+1083,2," $64,140.00 "," $1,459.00 ",PhD,Divorced
+1084,2," $56,386.00 ", $230.00 ,UnderGrad,Married
+1085,1," $75,774.00 ", $340.00 ,Masters,Married
+1086,1," $58,494.00 ", $298.00 ,Masters,
+1087,2," $56,551.00 ", $67.00 ,PhD,Widowed
+1088,1," $22,448.00 ", $3.00 ,UnderGrad,
+1089,2," $34,213.00 ", $50.00 ,UnderGrad,Widowed
+1090,1," $25,358.00 ", $19.00 ,PhD,Widowed
+1091,1," $35,544.00 ", $30.00 ,Masters,
+1092,1," $36,634.00 ", $213.00 ,Masters,Married
+1093,1," $62,670.00 ", $539.00 ,PhD,
+1094,1," $50,334.00 ", $284.00 ,Masters,Married
+1095,2," $50,729.00 ", $239.00 ,PhD,
+1096,2," $34,916.00 ", $51.00 ,UnderGrad,Married
+1097,1," $64,892.00 ", $527.00 ,UnderGrad,Divorced
+1098,2," $43,602.00 ", $19.00 ,UnderGrad,
+1099,1," $41,473.00 ", $21.00 ,Masters,
+1100,2," $63,246.00 ", $593.00 ,PhD,
+1101,2," $36,732.00 ", $21.00 ,PhD,
+1102,1," $69,016.00 ", $726.00 ,UnderGrad,
+1103,1," $27,573.00 ", $50.00 ,UnderGrad,
+1104,1," $15,862.00 ", $1.00 ,Basic,
+1105,1," $49,544.00 ", $308.00 ,PhD,
+1106,1," $33,228.00 ", $22.00 ,UnderGrad,
+1107,2," $38,232.00 ", $43.00 ,UnderGrad,Married
+1108,2," $22,554.00 ", $27.00 ,PhD,
+1109,1," $23,536.00 ", $6.00 ,PhD,
+1110,1," $49,413.00 ", $205.00 ,UnderGrad,
+1111,2," $42,231.00 ", $24.00 ,UnderGrad,
+1112,1," $56,534.00 ", $691.00 ,UnderGrad,Married
+1113,1," $58,350.00 ", $493.00 ,UnderGrad,
+1114,1," $49,090.00 ", $494.00 ,UnderGrad,
+1115,1," $18,169.00 ", $9.00 ,PhD,
+1116,1," $24,336.00 ", $1.00 ,Masters,
+1117,1," $62,335.00 ", $243.00 ,UnderGrad,Divorced
+1118,2," $42,033.00 ", $11.00 ,Masters,Married
+1119,2," $41,437.00 ", $29.00 ,PhD,Divorced
+1120,2," $73,705.00 ", $612.00 ,Masters,Widowed
+1121,1," $61,064.00 ", $387.00 ,UnderGrad,
+1122,1," $18,358.00 ", $6.00 ,UnderGrad,
+1123,1," $55,012.00 ", $582.00 ,PhD,Married
+1124,1," $9,722.00 ", $6.00 ,Basic,Married
+1125,1," $38,175.00 ", $70.00 ,PhD,
+1126,1," $58,656.00 ", $962.00 ,Masters,Married
+1127,1," $52,117.00 ", $112.00 ,UnderGrad,Married
+1128,1," $64,813.00 ", $293.00 ,UnderGrad,
+1129,1," $54,222.00 ", $199.00 ,PhD,
+1130,1," $77,520.00 ", $940.00 ,Masters,
+1131,1," $41,154.00 ", $44.00 ,UnderGrad,Married
+1132,1," $18,746.00 ", $2.00 ,Basic,
+1133,1," $35,196.00 ", $75.00 ,UnderGrad,Married
+1134,1," $60,230.00 ", $520.00 ,UnderGrad,
+1135,2," $22,108.00 ", $5.00 ,UnderGrad,
+1136,2," $44,392.00 ", $87.00 ,UnderGrad,Married
+1137,1," $55,424.00 ", $462.00 ,PhD,
+1138,1," $17,688.00 ", $2.00 ,UnderGrad,
+1139,1," $38,513.00 ", $172.00 ,PhD,
+1140,1," $16,653.00 ", $5.00 ,Masters,
+1141,2," $42,586.00 ", $194.00 ,UnderGrad,Married
+1142,1," $23,529.00 ", $9.00 ,Basic,
+1143,1," $71,107.00 ", $533.00 ,UnderGrad,
+1144,2," $46,910.00 ", $48.00 ,PhD,Married
+1145,2," $37,244.00 ", $18.00 ,UnderGrad,Divorced
+1146,1," $75,342.00 ", $204.00 ,Masters,
+1147,1," $70,044.00 "," $1,073.00 ",UnderGrad,Divorced
+1148,1," $54,984.00 ", $173.00 ,UnderGrad,
+1149,1," $42,403.00 ", $22.00 ,PhD,
+1150,1," $55,761.00 ", $136.00 ,UnderGrad,Married
+1151,1," $37,292.00 ", $275.00 ,UnderGrad,Married
+1152,1," $58,086.00 ", $708.00 ,PhD,Divorced
+1153,1," $69,901.00 ", $312.00 ,UnderGrad,Divorced
+1154,1," $63,342.00 ", $918.00 ,PhD,Married
+1155,1," $31,859.00 ", $3.00 ,Masters,
+1156,1," $51,569.00 ", $380.00 ,PhD,Widowed
+1157,2," $16,014.00 ", $3.00 ,Basic,
+1158,2," $41,120.00 ", $24.00 ,UnderGrad,
+1159,1," $39,763.00 ", $80.00 ,Masters,
+1160,2," $38,725.00 ", $31.00 ,PhD,
+1161,1," $77,981.00 ", $138.00 ,UnderGrad,
+1162,1," $62,905.00 ", $166.00 ,Masters,
+1163,1," $13,533.00 ", $12.00 ,Masters,Divorced
+1164,1," $59,481.00 ", $178.00 ,UnderGrad,Married
+1165,1," $72,117.00 ", $707.00 ,UnderGrad,
+1166,1," $21,955.00 ", $5.00 ,Masters,
+1167,1," $67,131.00 ", $465.00 ,UnderGrad,
+1168,1," $36,802.00 ", $16.00 ,PhD,
+1169,1," $47,808.00 ", $123.00 ,Masters,
+1170,1," $25,509.00 ", $40.00 ,PhD,Divorced
+1171,1," $42,664.00 ", $21.00 ,UnderGrad,
+1172,1," $39,435.00 ", $71.00 ,PhD,Married
+1173,1," $20,194.00 ", $-   ,Basic,
+1174,2," $42,473.00 ", $93.00 ,PhD,
+1175,1," $71,232.00 ", $653.00 ,UnderGrad,Married
+1176,2," $34,600.00 ", $199.00 ,UnderGrad,Married
+1177,2," $46,904.00 ", $153.00 ,UnderGrad,
+1178,1," $49,094.00 ", $376.00 ,UnderGrad,
+1179,1," $36,075.00 ", $46.00 ,UnderGrad,Married
+1180,2," $60,839.00 ", $600.00 ,Masters,Married
+1181,2," $34,074.00 ", $135.00 ,UnderGrad,Married
+1182,2," $28,520.00 ", $11.00 ,Masters,
+1183,1," $62,535.00 ", $163.00 ,UnderGrad,
+1184,1," $36,273.00 ", $29.00 ,Masters,
+1185,2," $63,404.00 ", $734.00 ,UnderGrad,Married
+1186,1," $78,416.00 ", $453.00 ,UnderGrad,Married
+1187,1," $75,702.00 "," $1,073.00 ",UnderGrad,Married
+1188,2," $59,385.00 ", $135.00 ,Masters,Married
+1189,2," $44,689.00 ", $18.00 ,UnderGrad,
+1190,2," $7,144.00 ", $81.00 ,PhD,
+1191,1," $46,757.00 ", $777.00 ,PhD,
+1192,1," $72,071.00 ", $531.00 ,UnderGrad,Divorced
+1193,1," $21,840.00 ", $17.00 ,PhD,Married
+1194,1," $58,582.00 ", $402.00 ,Masters,Married
+1195,2," $50,387.00 ", $369.00 ,UnderGrad,
+1196,2," $32,583.00 ", $5.00 ,PhD,Married
+1197,1," $62,568.00 ", $362.00 ,UnderGrad,Married
+1198,2," $44,635.00 ", $56.00 ,Masters,Divorced
+1199,1," $63,967.00 ", $387.00 ,UnderGrad,
+1200,1," $25,293.00 ", $15.00 ,UnderGrad,
+1201,1," $54,111.00 ", $267.00 ,PhD,Widowed
+1202,1," $22,669.00 ", $16.00 ,Masters,Married
+1203,1," $29,236.00 ", $37.00 ,UnderGrad,
+1204,1," $44,911.00 ", $159.00 ,UnderGrad,Married
+1205,1," $54,693.00 ", $686.00 ,PhD,
+1206,1," $48,186.00 ", $97.00 ,UnderGrad,Married
+1207,2," $54,809.00 ", $63.00 ,UnderGrad,
+1208,2," $41,580.00 ", $56.00 ,UnderGrad,Married
+1209,1," $47,743.00 ", $198.00 ,UnderGrad,
+1210,1," $62,972.00 ", $313.00 ,Masters,
+1211,1," $57,333.00 ", $941.00 ,PhD,Divorced
+1212,1," $32,313.00 ", $86.00 ,PhD,Married
+1213,1," $27,071.00 ", $8.00 ,Masters,Divorced
+1214,2," $65,735.00 ", $239.00 ,Masters,Married
+1215,2," $4,023.00 ", $5.00 ,PhD,
+1216,1," $57,705.00 ", $383.00 ,PhD,
+1217,1," $25,008.00 ", $2.00 ,UnderGrad,
+1218,1," $22,280.00 ", $2.00 ,UnderGrad,Married
+1219,1," $74,290.00 "," $1,121.00 ",Masters,Divorced
+1220,3," $58,217.00 ", $68.00 ,Masters,
+1221,1," $54,006.00 ", $174.00 ,UnderGrad,Married
+1222,1," $69,063.00 ", $666.00 ,PhD,
+1223,1," $70,886.00 ", $407.00 ,UnderGrad,
+1224,2," $60,208.00 ", $488.00 ,UnderGrad,Widowed
+1225,2," $32,889.00 ", $28.00 ,Masters,Married
+1226,1," $34,738.00 ", $3.00 ,UnderGrad,
+1227,1," $30,538.00 ", $284.00 ,Masters,Married
+1228,1," $26,642.00 ", $13.00 ,PhD,Divorced
+1229,1," $69,932.00 ", $412.00 ,UnderGrad,Divorced
+1230,2," $44,503.00 ", $31.00 ,UnderGrad,
+1231,1," $60,200.00 ", $502.00 ,PhD,
+1232,1," $49,638.00 ", $18.00 ,UnderGrad,Divorced
+1233,1," $69,702.00 ", $664.00 ,PhD,Married
+1234,1," $70,300.00 "," $1,045.00 ",UnderGrad,Divorced
+1235,1," $30,396.00 ", $15.00 ,PhD,
+1236,1," $50,616.00 ", $128.00 ,PhD,Divorced
+1237,1," $62,772.00 ", $581.00 ,Masters,
+1238,1," $52,413.00 ", $185.00 ,UnderGrad,
+1239,2," $44,155.00 ", $22.00 ,PhD,
+1240,2," $76,532.00 ", $355.00 ,UnderGrad,Married
+1241,1," $42,081.00 ", $175.00 ,UnderGrad,
+1242,1," $31,158.00 ", $25.00 ,UnderGrad,
+1243,1," $61,671.00 ", $641.00 ,UnderGrad,Divorced
+1244,1," $49,160.00 ", $122.00 ,UnderGrad,Divorced
+1245,1," $29,819.00 ", $9.00 ,UnderGrad,Divorced
+1246,1," $45,688.00 ", $279.00 ,UnderGrad,
+1247,1," $60,491.00 ", $637.00 ,PhD,
+1248,1," $33,235.00 ", $45.00 ,UnderGrad,Married
+1249,1," $31,535.00 ", $15.00 ,Masters,
+1250,1," $67,384.00 ", $957.00 ,UnderGrad,
+1251,1," $77,870.00 "," $1,017.00 ",UnderGrad,
+1252,1," $52,278.00 ", $953.00 ,PhD,Widowed
+1253,1," $57,107.00 ", $159.00 ,UnderGrad,
+1254,1," $36,038.00 ", $23.00 ,PhD,
+1255,2," $34,230.00 ", $15.00 ,PhD,Married
+1256,1," $31,878.00 ", $23.00 ,Masters,
+1257,1," $70,932.00 ", $200.00 ,Masters,
+1258,2," $80,982.00 ", $505.00 ,UnderGrad,
+1259,1," $22,701.00 ", $2.00 ,Masters,
+1260,2," $62,694.00 ", $379.00 ,Masters,
+1261,2," $61,917.00 ", $46.00 ,PhD,
+1262,1," $67,472.00 ", $162.00 ,PhD,
+1263,1," $21,059.00 ", $8.00 ,Masters,
+1264,2," $29,543.00 ", $17.00 ,Masters,
+1265,1," $75,903.00 ", $340.00 ,UnderGrad,
+1266,2," $34,984.00 ", $8.00 ,Masters,Married
+1267,1," $54,998.00 ", $154.00 ,PhD,
+1268,1," $54,356.00 ", $710.00 ,PhD,Widowed
+1269,1," $34,242.00 ", $8.00 ,Masters,
+1270,1," $25,410.00 ", $2.00 ,UnderGrad,
+1271,1," $28,320.00 ", $19.00 ,UnderGrad,Married
+1272,1," $23,763.00 ", $22.00 ,UnderGrad,
+1273,1," $34,529.00 ", $68.00 ,Masters,
+1274,1," $83,891.00 ", $217.00 ,Masters,
+1275,2," $36,065.00 ", $18.00 ,UnderGrad,
+1276,1," $56,939.00 ", $256.00 ,UnderGrad,
+1277,1," $29,478.00 ", $8.00 ,UnderGrad,Married
+1278,1," $46,998.00 ", $172.00 ,UnderGrad,
+1279,1," $70,053.00 ", $512.00 ,Masters,
+1280,2," $44,359.00 ", $20.00 ,UnderGrad,
+1281,2," $40,887.00 ", $50.00 ,UnderGrad,
+1282,1," $48,877.00 ", $102.00 ,UnderGrad,Divorced
+1283,1," $64,474.00 ", $381.00 ,UnderGrad,Married
+1284,1," $77,226.00 ", $631.00 ,UnderGrad,Married
+1285,1," $55,686.00 ", $673.00 ,UnderGrad,Divorced
+1286,1," $39,062.00 ", $23.00 ,UnderGrad,
+1287,1," $40,794.00 ", $261.00 ,UnderGrad,
+1288,1," $4,428.00 ", $16.00 ,UnderGrad,
+1289,2," $38,236.00 ", $58.00 ,PhD,
+1290,1," $36,781.00 ", $29.00 ,UnderGrad,
+1291,1," $31,385.00 ", $3.00 ,Masters,
+1292,1," $24,570.00 ", $28.00 ,UnderGrad,
+1293,1," $58,646.00 ", $62.00 ,Masters,
+1294,2," $53,201.00 ", $280.00 ,UnderGrad,
+1295,2," $57,113.00 ", $182.00 ,UnderGrad,
+1296,1," $23,477.00 ", $38.00 ,UnderGrad,
+1297,1," $58,116.00 ", $228.00 ,UnderGrad,
+1298,1," $39,791.00 ", $85.00 ,Masters,
+1299,1," $94,472.00 "," $1,017.00 ",UnderGrad,
+1300,2," $13,672.00 ", $6.00 ,UnderGrad,Married
+1301,1," $56,559.00 ", $226.00 ,PhD,Married
+1302,1," $32,644.00 ", $239.00 ,PhD,
+1303,1," $67,506.00 ", $90.00 ,Masters,
+1304,1," $24,206.00 ", $7.00 ,UnderGrad,
+1305,1," $28,420.00 ", $4.00 ,PhD,Divorced
+1306,1," $22,979.00 ", $16.00 ,UnderGrad,
+1307,1," $30,368.00 ", $35.00 ,UnderGrad,
+1308,1," $63,684.00 ", $575.00 ,UnderGrad,
+1309,1," $41,638.00 ", $315.00 ,UnderGrad,Divorced
+1310,1," $68,805.00 ", $182.00 ,PhD,Divorced
+1311,1," $65,814.00 ", $561.00 ,PhD,Married
+1312,1," $39,146.00 ", $94.00 ,UnderGrad,
+1313,2," $27,943.00 ", $12.00 ,UnderGrad,Married
+1314,2," $22,263.00 ", $17.00 ,UnderGrad,Divorced
+1315,3," $30,261.00 ", $8.00 ,UnderGrad,Married
+1316,1," $28,587.00 ", $22.00 ,UnderGrad,Married
+1317,1," $43,815.00 ", $14.00 ,Masters,
+1318,2," $48,195.00 ", $106.00 ,UnderGrad,
+1319,1," $77,027.00 ", $820.00 ,Masters,
+1320,1," $71,322.00 ", $753.00 ,PhD,
+1321,1," $32,765.00 ", $13.00 ,Masters,
+1322,1," $49,912.00 ", $520.00 ,Masters,Married
+1323,1," $7,500.00 ", $5.00 ,Masters,Married
+1324,1," $68,117.00 ", $618.00 ,PhD,Widowed
+1325,1," $67,225.00 ", $315.00 ,UnderGrad,
+1326,1," $17,649.00 ", $15.00 ,UnderGrad,
+1327,1," $55,914.00 ", $384.00 ,UnderGrad,Married
+1328,1," $40,059.00 ", $110.00 ,UnderGrad,
+1329,1," $60,905.00 ", $208.00 ,UnderGrad,Married
+1330,2," $75,330.00 ", $555.00 ,UnderGrad,
+1331,1," $60,689.00 ", $240.00 ,UnderGrad,
+1332,1," $38,680.00 ", $11.00 ,UnderGrad,
+1333,3," $83,273.00 ", $433.00 ,UnderGrad,
+1334,1," $29,009.00 ", $6.00 ,UnderGrad,
+1335,1," $45,057.00 ", $37.00 ,Masters,
+1336,1," $37,150.00 ", $167.00 ,UnderGrad,
+1337,1," $43,020.00 ", $45.00 ,UnderGrad,
+1338,1," $53,154.00 ", $129.00 ,UnderGrad,
+1339,1," $76,467.00 ", $676.00 ,UnderGrad,
+1340,2," $32,871.00 ", $22.00 ,UnderGrad,
+1341,2," $55,801.00 ", $367.00 ,UnderGrad,
+1342,1," $76,320.00 ", $526.00 ,UnderGrad,Widowed
+1343,2," $36,927.00 ", $51.00 ,Masters,
+1344,2," $48,794.00 ", $25.00 ,UnderGrad,Married
+1345,1," $71,128.00 ", $958.00 ,UnderGrad,Divorced
+1346,1," $59,462.00 ", $724.00 ,UnderGrad,
+1347,2," $42,554.00 ", $29.00 ,UnderGrad,Married
+1348,1," $67,046.00 ", $544.00 ,UnderGrad,Widowed
+1349,1," $77,610.00 "," $1,245.00 ",PhD,
+1350,1," $31,761.00 ", $19.00 ,UnderGrad,
+1351,1," $34,350.00 ", $16.00 ,UnderGrad,Married
+1352,1," $54,591.00 ", $376.00 ,UnderGrad,Married
+1353,1," $71,866.00 ", $184.00 ,UnderGrad,
+1354,1," $64,713.00 ", $180.00 ,UnderGrad,Divorced
+1355,1," $27,889.00 ", $14.00 ,Masters,
+1356,1," $27,803.00 ", $8.00 ,UnderGrad,
+1357,1," $51,651.00 ", $293.00 ,UnderGrad,
+1358,1," $79,823.00 ", $835.00 ,UnderGrad,
+1359,1," $30,828.00 ", $16.00 ,UnderGrad,
+1360,1," $34,109.00 ", $9.00 ,Masters,
+1361,2," $53,367.00 ", $229.00 ,Masters,Divorced
+1362,1," $71,322.00 ", $121.00 ,UnderGrad,Married
+1363,2," $48,699.00 ", $26.00 ,PhD,
+1364,2," $54,252.00 ", $178.00 ,UnderGrad,
+1365,1," $81,929.00 "," $1,486.00 ",Masters,
+1366,1," $76,068.00 "," $1,115.00 ",UnderGrad,
+1367,2," $53,204.00 ", $29.00 ,Masters,
+1368,1," $14,796.00 ", $13.00 ,Masters,
+1369,1," $78,128.00 ", $934.00 ,PhD,
+1370,1," $72,967.00 ", $158.00 ,UnderGrad,Divorced
+1371,1," $48,150.00 ", $173.00 ,Masters,
+1372,2," $58,275.00 ", $189.00 ,UnderGrad,Widowed
+1373,2," $34,587.00 ", $7.00 ,UnderGrad,Married
+1374,1," $43,018.00 ", $35.00 ,Masters,Married
+1375,1," $45,736.00 ", $188.00 ,Masters,
+1376,1," $66,476.00 ", $742.00 ,Masters,Married
+1377,1," $27,733.00 ", $-   ,Masters,
+1378,1," $69,805.00 ", $750.00 ,PhD,Married
+1379,1," $25,818.00 ", $5.00 ,UnderGrad,Divorced
+1380,1," $37,509.00 ", $37.00 ,Masters,Married
+1381,2," $25,176.00 ", $4.00 ,Masters,Married
+1382,1," $43,586.00 ", $99.00 ,UnderGrad,
+1383,1," $53,230.00 ", $176.00 ,Masters,
+1384,2," $50,116.00 ", $54.00 ,UnderGrad,Married
+1385,3," $33,590.00 ", $4.00 ,UnderGrad,Married
+1386,1," $16,005.00 ", $1.00 ,Basic,
+1387,1," $58,692.00 ", $301.00 ,UnderGrad,
+1388,2," $40,590.00 ", $154.00 ,UnderGrad,Widowed
+1389,1," $62,637.00 ", $104.00 ,Masters,Divorced
+1390,2," $29,435.00 ", $70.00 ,Masters,Divorced
+1391,1," $19,346.00 ", $2.00 ,UnderGrad,Divorced
+1392,2," $35,788.00 ", $23.00 ,UnderGrad,
+1393,2," $36,997.00 ", $43.00 ,UnderGrad,Divorced
+1394,1," $65,333.00 ", $654.00 ,UnderGrad,
+1395,1," $29,732.00 ", $25.00 ,PhD,Married
+1396,3," $41,275.00 ", $24.00 ,Masters,Married
+1397,2," $63,516.00 ", $141.00 ,PhD,Married
+1398,1," $42,769.00 ", $71.00 ,PhD,
+1399,2," $49,572.00 ", $35.00 ,Masters,
+1400,1," $17,148.00 ", $9.00 ,UnderGrad,
+1401,1," $32,146.00 ", $26.00 ,Masters,
+1402,2," $41,713.00 ", $77.00 ,Masters,Divorced
+1403,1," $34,176.00 ", $11.00 ,Masters,Married
+1404,1," $58,482.00 ", $576.00 ,PhD,
+1405,1," $59,686.00 ", $89.00 ,UnderGrad,
+1406,1," $60,896.00 "," $1,013.00 ",PhD,
+1407,1," $62,994.00 ", $224.00 ,UnderGrad,Married
+1408,1," $47,320.00 ", $200.00 ,UnderGrad,Married
+1409,1," $15,253.00 ", $1.00 ,Basic,
+1410,1," $31,560.00 ", $62.00 ,PhD,
+1411,2," $41,967.00 ", $23.00 ,UnderGrad,
+1412,1," $69,263.00 ", $492.00 ,UnderGrad,
+1413,1," $60,934.00 ", $224.00 ,UnderGrad,Married
+1414,1," $71,965.00 ", $572.00 ,UnderGrad,
+1415,1," $65,210.00 ", $626.00 ,UnderGrad,
+1416,1," $48,432.00 ", $322.00 ,PhD,
+1417,1," $52,914.00 ", $254.00 ,UnderGrad,
+1418,1," $26,067.00 ", $22.00 ,UnderGrad,
+1419,1," $44,325.00 ", $516.00 ,PhD,
+1420,1," $26,487.00 ", $2.00 ,Basic,
+1421,1," $53,233.00 ", $28.00 ,Masters,
+1422,1," $67,716.00 ", $530.00 ,UnderGrad,
+1423,1," $76,234.00 ", $519.00 ,Masters,
+1424,1," $25,224.00 ", $4.00 ,Basic,
+1425,2," $40,851.00 ", $23.00 ,UnderGrad,Divorced
+1426,1," $73,803.00 ", $833.00 ,UnderGrad,
+1427,2," $8,820.00 ", $12.00 ,Masters,
+1428,1," $55,593.00 ", $293.00 ,UnderGrad,Married
+1429,2," $50,501.00 ", $297.00 ,UnderGrad,
+1430,2," $37,085.00 ", $39.00 ,UnderGrad,
+1431,1," $16,185.00 ", $5.00 ,Basic,
+1432,1," $57,731.00 ", $266.00 ,UnderGrad,
+1433,1," $73,807.00 ", $366.00 ,UnderGrad,
+1434,2," $35,893.00 ", $158.00 ,UnderGrad,
+1435,1," $61,014.00 ", $269.00 ,UnderGrad,
+1436,2," $32,144.00 ", $41.00 ,UnderGrad,Married
+1437,1," $14,918.00 ", $3.00 ,Basic,Married
+1438,2," $45,146.00 ", $33.00 ,UnderGrad,Divorced
+1439,1," $41,769.00 ", $302.00 ,Masters,Divorced
+1440,2," $38,054.00 ", $23.00 ,Masters,Divorced
+1441,1," $5,305.00 ", $12.00 ,UnderGrad,
+1442,2," $36,807.00 ", $4.00 ,UnderGrad,Married
+1443,1," $40,101.00 ", $171.00 ,Masters,Married
+1444,1," $58,025.00 ", $270.00 ,UnderGrad,
+1445,1," $7,500.00 ", $2.00 ,Masters,Married
+1446,3," $33,562.00 ", $21.00 ,Masters,
+1447,1," $57,642.00 ", $580.00 ,PhD,
+1448,2," $63,777.00 ", $457.00 ,UnderGrad,
+1449,1," $57,967.00 ", $229.00 ,UnderGrad,
+1450,2," $24,434.00 ", $3.00 ,UnderGrad,
+1451,1," $11,012.00 ", $24.00 ,UnderGrad,
+1452,1," $61,223.00 ", $709.00 ,UnderGrad,
+1453,1," $69,245.00 ", $428.00 ,Masters,Married
+1454,2," $52,869.00 ", $84.00 ,PhD,
