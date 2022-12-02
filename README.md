@@ -18,28 +18,28 @@ The amount of consumers were analyzed in the data set by counting the occurences
 <p/>
 <br/>
 <p align="center">
-  <img width="460" height="200" src="../Images/Kids.PNG">
+  <img width="460" height="200" src="../Images/Kids.png">
 </p>
 <br/>
 Average income for each education level and marital status was considered in the study to better understand the buying power of the customers in the data set. The average income of parents with basic education is $19,400. The average income of parents with an Undergrad is $46,524.70. The average income of parents with a Master's degree is $45,705.32. The average income of parents wiht a PhD is $49,036. When looking deeper into the data set by marital status. The data set gets a bit more interesting when considering how marital status could impact consumer's buying power. The average income of parents who are married is $45,911.68. The average income of parents who are divorced is $48,954.80. Finally, the average income of parents who are widowed is $53,353.06. We can infer from the data set that widows and PhD holders hold the highest buying power on average.
 <p/>
 <br/>
 <p align="center">
-  <img width="460" height="200" src="./Images/Income.PNG">
+  <img width="460" height="200" src="./Images/Income.png">
 </p>
 <br/>
 The total amount spent on wine products purchased by the consumers for the last two years in this analysis amassed to $337,359. I wanted to first look at parents with children, their education level, and how much was spent on wine. Parents (as a whole) in the dataset who held a PhD spent a total of $99,659 wine products and $308 on an an average individual level. Parents (as a whole) in the dataset who held a Masters Degree spent a total of $78,255 wine products and $212 on an an average individual level. Parents (as a whole) in the dataset who held an Undergrad spent a total of $159,341 wine products and $218 on an an average individual level. Placing them at a class who purchased the highest rate of wine products. Finally, parents (as a whole) who held a basic education spent a total of $104 wine products and $3 on an an average individual level. 
 <p/>
 <br/>
 <p align="center">
-  <img width="460" height="200" src="./Images/EducationSales.PNG">
+  <img width="460" height="200" src="./Images/EducationSales.png">
 </p>
 <br/>
 The final part of the analsyis was to examine the average amount spent on wine bought by marital status for the last two years. The average revenue made from wine by parents (as a whole) who are married was $86,021 and $228 on an average individual level. The average revenue made from wine by parents (as a whole) who are divorced was $45,814 and $284 on an average individual level. Finally, the average revenue made from wine by parents who are widowed was $14,615 and $324.77 on an average individual level. Here, we can see a decrease in wine purchases when the customer doesn't have a partner. Does this mean that customers without a partner are less likely to purchase wine? Not necessarily, because we have to consider quality of life, consumption rates, and the fact that another adult (marital partner) may also consume wine.
 <p/>
 <br/>
 <p align="center">
-  <img width="460" height="200" src="./Images/SalesTreeMap.PNG">
+  <img width="460" height="200" src="./Images/SalesTreeMap.png">
 </p>
 <br/>
 ##Recommended Marketing Objectives
@@ -47,6 +47,6 @@ Considering the basic group is quite the outlier in the data set. The data set i
 <p/>
 <br/>
 <p align="center">
-  <img width="460" height="200" src="./Images/Dashboard.PNG">
+  <img width="460" height="200" src="./Images/Dashboard.png">
 </p>
 <br/>
